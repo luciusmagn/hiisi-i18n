@@ -180,6 +180,7 @@
 
  ;; Translation page
  (:translate-title . "Vertalen")
+ (:landing-public-translate-title . "Probeer het hier")
  (:translate-input-label . "Te vertalen tekst")
  (:translate-input-placeholder . "Voer tekst in om te vertalen...")
  (:translate-from . "Brontaal:")

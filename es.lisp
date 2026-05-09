@@ -181,6 +181,7 @@
 
  ;; Translation page
  (:translate-title . "Traducir")
+ (:landing-public-translate-title . "Pruébalo aquí")
  (:translate-input-label . "Texto a traducir")
  (:translate-input-placeholder . "Ingresa el texto a traducir...")
  (:translate-from . "Idioma de origen:")

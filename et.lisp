@@ -180,6 +180,7 @@
 
  ;; Translation page
  (:translate-title . "Tõlgi")
+ (:landing-public-translate-title . "Proovi siin")
  (:translate-input-label . "Tõlgitav tekst")
  (:translate-input-placeholder . "Sisesta tõlgitav tekst...")
  (:translate-from . "Lähtkeel:")

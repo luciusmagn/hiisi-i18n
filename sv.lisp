@@ -180,6 +180,7 @@
 
  ;; Translation page
  (:translate-title . "Översätt")
+ (:landing-public-translate-title . "Prova här")
  (:translate-input-label . "Text att översätta")
  (:translate-input-placeholder . "Skriv text att översätta...")
  (:translate-from . "Källspråk:")

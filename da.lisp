@@ -181,6 +181,7 @@
 
  ;; Translation page
  (:translate-title . "Oversæt")
+ (:landing-public-translate-title . "Prøv det her")
  (:translate-input-label . "Tekst at oversætte")
  (:translate-input-placeholder . "Indtast tekst at oversætte...")
  (:translate-from . "Kildesprog:")

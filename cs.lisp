@@ -180,6 +180,7 @@
 
  ;; Translation page
  (:translate-title . "Překlad")
+ (:landing-public-translate-title . "Vyzkoušejte si to tady")
  (:translate-input-label . "Zadejte text k překladu")
  (:translate-input-placeholder . "Napište něco...")
  (:translate-from . "Původní jazyk:")
