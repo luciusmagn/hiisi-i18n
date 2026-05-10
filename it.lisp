@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Annulla")
  (:translate-deck-create . "Crea")
  (:translate-rate-label . "Valuta la traduzione")
+ (:flashcards-delete . "Elimina")
  (:flashcards-delete-confirm . "Sei sicuro di voler eliminare questa carta?")
  (:flashcards-deck-search-placeholder . "Cerca mazzi...")
  (:flashcards-no-decks . "Nessun mazzo ancora. Creane uno prima!")

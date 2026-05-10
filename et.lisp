@@ -221,6 +221,7 @@
  (:translate-deck-cancel . "Tühista")
  (:translate-deck-create . "Loo")
  (:translate-rate-label . "Hinda tõlget")
+ (:flashcards-delete . "Kustuta")
  (:flashcards-delete-confirm . "Kas oled kindel, et soovid selle kaardi kustutada?")
  (:flashcards-deck-search-placeholder . "Otsi kaardipakke...")
  (:flashcards-no-decks . "Kaardipakke veel pole. Loo üks kõigepealt!")

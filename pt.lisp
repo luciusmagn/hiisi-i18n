@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Cancelar")
  (:translate-deck-create . "Criar")
  (:translate-rate-label . "Avaliar tradução")
+ (:flashcards-delete . "Eliminar")
  (:flashcards-delete-confirm . "Tem certeza de que deseja excluir este cartão?")
  (:flashcards-deck-search-placeholder . "Pesquisar baralhos...")
  (:flashcards-no-decks . "Ainda não há baralhos. Crie um primeiro!")

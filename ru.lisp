@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Отмена")
  (:translate-deck-create . "Создать")
  (:translate-rate-label . "Оценить перевод")
+ (:flashcards-delete . "Удалить")
  (:flashcards-delete-confirm . "Вы уверены, что хотите удалить эту карточку?")
  (:flashcards-deck-search-placeholder . "Искать колоды...")
  (:flashcards-no-decks . "Колоды пока нет. Сначала создайте одну!")

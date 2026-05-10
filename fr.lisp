@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Annuler")
  (:translate-deck-create . "Créer")
  (:translate-rate-label . "Évaluer la traduction")
+ (:flashcards-delete . "Supprimer")
  (:flashcards-delete-confirm . "Voulez-vous vraiment supprimer cette carte ?")
  (:flashcards-deck-search-placeholder . "Rechercher des paquets...")
  (:flashcards-no-decks . "Aucun paquet pour l'instant. Créez-en un d'abord !")

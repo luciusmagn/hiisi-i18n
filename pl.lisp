@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Anuluj")
  (:translate-deck-create . "Utwórz")
  (:translate-rate-label . "Oceń tłumaczenie")
+ (:flashcards-delete . "Usuń")
  (:flashcards-delete-confirm . "Czy na pewno chcesz usunąć tę fiszkę?")
  (:flashcards-deck-search-placeholder . "Szukaj talii...")
  (:flashcards-no-decks . "Brak talii. Utwórz najpierw jedną!")

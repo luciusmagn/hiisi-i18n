@@ -221,6 +221,7 @@
  (:translate-deck-cancel . "Annuleren")
  (:translate-deck-create . "Maken")
  (:translate-rate-label . "Vertaling beoordelen")
+ (:flashcards-delete . "Verwijderen")
  (:flashcards-delete-confirm . "Weet je zeker dat je deze kaart wilt verwijderen?")
  (:flashcards-deck-search-placeholder . "Stapels zoeken...")
  (:flashcards-no-decks . "Nog geen stapels. Maak er eerst een!")

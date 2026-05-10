@@ -221,6 +221,7 @@
  (:translate-deck-cancel . "Zrušit")
  (:translate-deck-create . "Vytvořit")
  (:translate-rate-label . "Ohodnotit překlad")
+ (:flashcards-delete . "Smazat")
  (:flashcards-delete-confirm . "Opravdu chcete smazat tuto kartičku?")
  (:flashcards-deck-search-placeholder . "Hledat balíčky...")
  (:flashcards-no-decks . "Zatím žádné balíčky. Nejdřív nějaký vytvořte.")

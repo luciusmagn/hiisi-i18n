@@ -221,6 +221,7 @@
  (:translate-deck-cancel . "Avbryt")
  (:translate-deck-create . "Skapa")
  (:translate-rate-label . "Betygsätt översättning")
+ (:flashcards-delete . "Ta bort")
  (:flashcards-delete-confirm . "Är du säker på att du vill ta bort det här kortet?")
  (:flashcards-deck-search-placeholder . "Sök kortlekar...")
  (:flashcards-no-decks . "Inga kortlekar ännu. Skapa en först!")

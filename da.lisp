@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Annuller")
  (:translate-deck-create . "Opret")
  (:translate-rate-label . "Bedøm oversættelse")
+ (:flashcards-delete . "Slet")
  (:flashcards-delete-confirm . "Er du sikker på, at du vil slette dette kort?")
  (:flashcards-deck-search-placeholder . "Søg i kortbunker...")
  (:flashcards-no-decks . "Ingen kortbunker endnu. Opret en først!")

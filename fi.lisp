@@ -221,6 +221,7 @@
  (:translate-deck-cancel . "Peruuta")
  (:translate-deck-create . "Luo")
  (:translate-rate-label . "Arvioi käännös")
+ (:flashcards-delete . "Poista")
  (:flashcards-delete-confirm . "Haluatko varmasti poistaa tämän kortin?")
  (:flashcards-deck-search-placeholder . "Hae pakkoja...")
  (:flashcards-no-decks . "Ei vielä pakkoja. Luo ensin yksi!")

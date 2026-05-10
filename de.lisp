@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Abbrechen")
  (:translate-deck-create . "Erstellen")
  (:translate-rate-label . "Übersetzung bewerten")
+ (:flashcards-delete . "Löschen")
  (:flashcards-delete-confirm . "Möchten Sie diese Karteikarte wirklich löschen?")
  (:flashcards-deck-search-placeholder . "Stapel suchen...")
  (:flashcards-no-decks . "Noch keine Stapel. Erstellen Sie zuerst einen!")

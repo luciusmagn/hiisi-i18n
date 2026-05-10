@@ -222,6 +222,7 @@
  (:translate-deck-cancel . "Cancel")
  (:translate-deck-create . "Create")
  (:translate-rate-label . "Rate translation")
+ (:flashcards-delete . "Delete")
  (:flashcards-delete-confirm . "Are you sure you want to delete this flashcard?")
  (:flashcards-deck-search-placeholder . "Search decks...")
  (:flashcards-no-decks . "No decks yet. Create one first!")
