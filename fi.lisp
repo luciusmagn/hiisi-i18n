@@ -54,6 +54,7 @@
 (:auth-register-email-exists . "Tällä sähköpostiosoitteella on jo tili.")
 (:auth-register-unavailable . "Rekisteröityminen on tilapäisesti poissa käytöstä. Yritä myöhemmin uudelleen.")
 (:auth-register-plan-required . "Valitse tilaus ennen tilin luomista.")
+(:auth-preapproved-email-unrecognized . "Käytä kutsussa olevaa sähköpostiosoitetta tai valitse tilaus ennen tilin luomista.")
 (:auth-institution-register . "Tuletko oppilaitoksesta?")
 (:auth-institution-title . "Rekisteröidy oppilaitoksesi kautta")
 (:auth-institution-subtitle . "Käytä koulun tai yliopiston sähköpostiosoitetta. Jos oppilaitoksellasi on aktiivinen Hiisi-käyttöoikeus, tilisi avataan sähköpostivahvistuksen jälkeen.")

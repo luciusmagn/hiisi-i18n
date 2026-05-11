@@ -55,6 +55,7 @@
 (:auth-register-email-exists . "Konto z tym adresem e-mail już istnieje.")
 (:auth-register-unavailable . "Rejestracja jest tymczasowo niedostępna. Spróbuj ponownie później.")
 (:auth-register-plan-required . "Wybierz plan przed utworzeniem konta.")
+(:auth-preapproved-email-unrecognized . "Użyj adresu e-mail z zaproszenia albo wybierz plan przed utworzeniem konta.")
 (:auth-institution-register . "Jesteś z instytucji?")
 (:auth-institution-title . "Zarejestruj się przez swoją instytucję")
 (:auth-institution-subtitle . "Użyj adresu e-mail szkoły lub uczelni. Jeśli Twoja instytucja ma aktywny dostęp do Hiisi, konto zostanie odblokowane po weryfikacji e-maila.")

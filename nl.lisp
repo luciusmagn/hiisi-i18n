@@ -54,6 +54,7 @@
 (:auth-register-email-exists . "Er bestaat al een account met dit e-mailadres.")
 (:auth-register-unavailable . "Registratie is tijdelijk niet beschikbaar. Probeer het later opnieuw.")
 (:auth-register-plan-required . "Kies een abonnement voordat je een account maakt.")
+(:auth-preapproved-email-unrecognized . "Gebruik het e-mailadres uit je uitnodiging of kies een abonnement voordat je een account maakt.")
 (:auth-institution-register . "Kom je via een instelling?")
 (:auth-institution-title . "Registreer via je instelling")
 (:auth-institution-subtitle . "Gebruik je school- of universiteitsmail. Als je instelling actieve Hiisi-toegang heeft, wordt je account na e-mailverificatie ontgrendeld.")

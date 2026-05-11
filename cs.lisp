@@ -54,6 +54,7 @@
 (:auth-register-email-exists . "Účet s tímto e-mailem už existuje.")
 (:auth-register-unavailable . "Registrace je dočasně nedostupná. Zkuste to prosím znovu později.")
 (:auth-register-plan-required . "Před vytvořením účtu si vyberte plán.")
+(:auth-preapproved-email-unrecognized . "Použijte e-mailovou adresu z pozvánky, nebo si před vytvořením účtu vyberte plán.")
 (:auth-institution-register . "Přicházíte z instituce?")
 (:auth-institution-title . "Registrace přes vaši instituci")
 (:auth-institution-subtitle . "Použijte školní nebo univerzitní e-mail. Pokud má vaše instituce aktivní přístup k Hiisi, účet se odemkne po ověření e-mailu.")

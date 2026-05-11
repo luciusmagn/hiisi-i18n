@@ -54,6 +54,7 @@
 (:auth-register-email-exists . "Selle e-posti aadressiga konto on juba olemas.")
 (:auth-register-unavailable . "Registreerimine on ajutiselt maas. Proovi hiljem uuesti.")
 (:auth-register-plan-required . "Vali enne konto loomist pakett.")
+(:auth-preapproved-email-unrecognized . "Kasuta kutses olevat e-posti aadressi või vali enne konto loomist pakett.")
 (:auth-institution-register . "Tuled õppeasutusest?")
 (:auth-institution-title . "Registreeru oma õppeasutuse kaudu")
 (:auth-institution-subtitle . "Kasuta kooli või ülikooli e-posti aadressi. Kui sinu asutusel on aktiivne Hiisi ligipääs, avatakse konto pärast e-posti kinnitamist.")

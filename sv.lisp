@@ -54,6 +54,7 @@
 (:auth-register-email-exists . "Det finns redan ett konto med den här e-postadressen.")
 (:auth-register-unavailable . "Registrering är tillfälligt otillgänglig. Försök igen senare.")
 (:auth-register-plan-required . "Välj en plan innan du skapar ett konto.")
+(:auth-preapproved-email-unrecognized . "Använd e-postadressen från din inbjudan, eller välj en plan innan du skapar ett konto.")
 (:auth-institution-register . "Kommer du från en institution?")
 (:auth-institution-title . "Registrera dig via din institution")
 (:auth-institution-subtitle . "Använd din skolas eller ditt universitets e-postadress. Om din institution har aktiv Hiisi-åtkomst låses kontot upp efter e-postverifiering.")
