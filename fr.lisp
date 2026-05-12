@@ -1,9 +1,9 @@
-;;; French translations
+;;; Parisian French translations
 ;;; Keep keys in parity with en.lisp.
 
 (
  ;; Language metadata (used for language picker)
- (:lang-name . "Français")
+ (:lang-name . "Français parisien")
  (:lang-flag . "🇫🇷")
 
  ;; Language modal (first-visit language selection)
