@@ -641,6 +641,10 @@
  (:flashcards-image-upload . "Ladda upp bild")
  (:flashcards-image-replace . "Byt bild")
  (:flashcards-image-remove . "Ta bort bild")
+ (:flashcards-pagination-label . "Flashcard-sidor")
+ (:flashcards-pagination-status . "Sida ~A av ~A")
+ (:flashcards-pagination-previous . "Föregående")
+ (:flashcards-pagination-next . "Nästa")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Varje ord förklarat. Varje repetition schemalagd. Femton språk.")

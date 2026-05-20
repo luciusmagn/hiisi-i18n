@@ -641,6 +641,10 @@
  (:flashcards-image-upload . "Afbeelding uploaden")
  (:flashcards-image-replace . "Afbeelding vervangen")
  (:flashcards-image-remove . "Afbeelding verwijderen")
+ (:flashcards-pagination-label . "Flashcardpagina's")
+ (:flashcards-pagination-status . "Pagina ~A van ~A")
+ (:flashcards-pagination-previous . "Vorige")
+ (:flashcards-pagination-next . "Volgende")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Elk woord uitgelegd. Elke herhaling gepland. Vijftien talen.")

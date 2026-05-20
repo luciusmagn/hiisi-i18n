@@ -642,6 +642,10 @@
  (:flashcards-image-upload . "Bild hochladen")
  (:flashcards-image-replace . "Bild ersetzen")
  (:flashcards-image-remove . "Bild entfernen")
+ (:flashcards-pagination-label . "Karteikartenseiten")
+ (:flashcards-pagination-status . "Seite ~A von ~A")
+ (:flashcards-pagination-previous . "Zurück")
+ (:flashcards-pagination-next . "Weiter")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Jedes Wort erklärt. Jede Wiederholung geplant. Fünfzehn Sprachen.")

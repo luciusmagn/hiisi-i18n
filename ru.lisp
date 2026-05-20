@@ -642,6 +642,10 @@
  (:flashcards-image-upload . "Загрузить изображение")
  (:flashcards-image-replace . "Заменить изображение")
  (:flashcards-image-remove . "Удалить изображение")
+ (:flashcards-pagination-label . "Страницы карточек")
+ (:flashcards-pagination-status . "Страница ~A из ~A")
+ (:flashcards-pagination-previous . "Предыдущая")
+ (:flashcards-pagination-next . "Следующая")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Каждое слово объяснено. Каждое повторение запланировано. Пятнадцать языков.")

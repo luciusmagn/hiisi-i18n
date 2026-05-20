@@ -641,6 +641,10 @@
  (:flashcards-image-upload . "Nahrát obrázek")
  (:flashcards-image-replace . "Nahradit obrázek")
  (:flashcards-image-remove . "Odstranit obrázek")
+ (:flashcards-pagination-label . "Stránky kartiček")
+ (:flashcards-pagination-status . "Strana ~A z ~A")
+ (:flashcards-pagination-previous . "Předchozí")
+ (:flashcards-pagination-next . "Další")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Každé slovo vysvětlené. Každé opakování naplánované. Patnáct jazyků.")

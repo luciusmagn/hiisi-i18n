@@ -642,6 +642,10 @@
  (:flashcards-image-upload . "Upload billede")
  (:flashcards-image-replace . "Erstat billede")
  (:flashcards-image-remove . "Fjern billede")
+ (:flashcards-pagination-label . "Flashcard-sider")
+ (:flashcards-pagination-status . "Side ~A af ~A")
+ (:flashcards-pagination-previous . "Forrige")
+ (:flashcards-pagination-next . "Næste")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Hvert ord forklaret. Hver repetition planlagt. Femten sprog.")

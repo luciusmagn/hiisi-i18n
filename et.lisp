@@ -641,6 +641,10 @@
  (:flashcards-image-upload . "Laadi pilt üles")
  (:flashcards-image-replace . "Asenda pilt")
  (:flashcards-image-remove . "Eemalda pilt")
+ (:flashcards-pagination-label . "Sähvikute lehed")
+ (:flashcards-pagination-status . "Leht ~A / ~A")
+ (:flashcards-pagination-previous . "Eelmine")
+ (:flashcards-pagination-next . "Järgmine")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Iga sõna seletatud. Iga kordamine planeeritud. Viisteist keelt.")

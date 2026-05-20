@@ -641,6 +641,10 @@
  (:flashcards-image-upload . "Lähetä kuva")
  (:flashcards-image-replace . "Vaihda kuva")
  (:flashcards-image-remove . "Poista kuva")
+ (:flashcards-pagination-label . "Muistikorttisivut")
+ (:flashcards-pagination-status . "Sivu ~A / ~A")
+ (:flashcards-pagination-previous . "Edellinen")
+ (:flashcards-pagination-next . "Seuraava")
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Jokainen sana selitettynä. Jokainen kertaus ajastettuna. Viisitoista kieltä.")
