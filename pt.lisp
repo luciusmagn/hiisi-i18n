@@ -567,6 +567,7 @@
  (:decks-col-updated . "Atualizado")
  (:decks-no-decks . "Ainda não há baralhos.")
  (:decks-open-btn . "Abrir")
+ (:decks-view-deck-btn . "Ver baralho")
  (:decks-no-desc . "Sem descrição.")
  (:decks-share-title . "Link de partilha")
  (:decks-share-info . "Qualquer pessoa com este link pode importar o baralho:")

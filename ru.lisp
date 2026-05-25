@@ -567,6 +567,7 @@
  (:decks-col-updated . "Обновлено")
  (:decks-no-decks . "Колод пока нет.")
  (:decks-open-btn . "Открыть")
+ (:decks-view-deck-btn . "Посмотреть колоду")
  (:decks-no-desc . "Без описания.")
  (:decks-share-title . "Ссылка для обмена")
  (:decks-share-info . "Любой с этой ссылкой может импортировать колоду:")

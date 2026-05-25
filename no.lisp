@@ -567,6 +567,7 @@
  (:decks-col-updated . "Oppdatert")
  (:decks-no-decks . "Ingen kortstokker ennå.")
  (:decks-open-btn . "Åpne")
+ (:decks-view-deck-btn . "Vis kortstokk")
  (:decks-no-desc . "Ingen beskrivelse.")
  (:decks-share-title . "Delingslenke")
  (:decks-share-info . "Alle med denne lenken kan importere kortstokken:")

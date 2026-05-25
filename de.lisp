@@ -567,6 +567,7 @@
  (:decks-col-updated . "Aktualisiert")
  (:decks-no-decks . "Noch keine Stapel.")
  (:decks-open-btn . "Öffnen")
+ (:decks-view-deck-btn . "Deck ansehen")
  (:decks-no-desc . "Keine Beschreibung.")
  (:decks-share-title . "Teilen-Link")
  (:decks-share-info . "Jeder mit diesem Link kann den Stapel importieren:")

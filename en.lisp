@@ -568,6 +568,7 @@
  (:decks-col-updated . "Updated")
  (:decks-no-decks . "No decks yet.")
  (:decks-open-btn . "Open")
+ (:decks-view-deck-btn . "View deck")
  (:decks-no-desc . "No description.")
  (:decks-share-title . "Share Link")
  (:decks-share-info . "Anyone with this link can import the deck:")

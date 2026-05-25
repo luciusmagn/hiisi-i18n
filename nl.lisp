@@ -566,6 +566,7 @@
  (:decks-col-updated . "Bijgewerkt")
  (:decks-no-decks . "Nog geen stapels.")
  (:decks-open-btn . "Openen")
+ (:decks-view-deck-btn . "Deck bekijken")
  (:decks-no-desc . "Geen beschrijving.")
  (:decks-share-title . "Deellink")
  (:decks-share-info . "Iedereen met deze link kan de stapel importeren:")

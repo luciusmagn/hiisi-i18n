@@ -566,6 +566,7 @@
  (:decks-col-updated . "Uppdaterad")
  (:decks-no-decks . "Inga kortlekar ännu.")
  (:decks-open-btn . "Öppna")
+ (:decks-view-deck-btn . "Visa kortlek")
  (:decks-no-desc . "Ingen beskrivning.")
  (:decks-share-title . "Delningslänk")
  (:decks-share-info . "Alla med denna länk kan importera kortleken:")

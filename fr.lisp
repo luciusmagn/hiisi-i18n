@@ -568,6 +568,7 @@
  (:decks-col-updated . "Mis à jour")
  (:decks-no-decks . "Aucun paquet pour l'instant.")
  (:decks-open-btn . "Ouvrir")
+ (:decks-view-deck-btn . "Voir le paquet")
  (:decks-no-desc . "Aucune description.")
  (:decks-share-title . "Lien de partage")
  (:decks-share-info . "Toute personne ayant ce lien peut importer le paquet :")

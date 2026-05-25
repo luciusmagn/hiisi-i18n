@@ -566,6 +566,7 @@
  (:decks-col-updated . "Päivitetty")
  (:decks-no-decks . "Ei vielä pakkoja.")
  (:decks-open-btn . "Avaa")
+ (:decks-view-deck-btn . "Näytä pakka")
  (:decks-no-desc . "Ei kuvausta.")
  (:decks-share-title . "Jakolinkki")
  (:decks-share-info . "Kuka tahansa voi tuoda pakan tällä linkillä:")

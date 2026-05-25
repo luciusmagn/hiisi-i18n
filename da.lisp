@@ -567,6 +567,7 @@
  (:decks-col-updated . "Opdateret")
  (:decks-no-decks . "Ingen kortbunker endnu.")
  (:decks-open-btn . "Åbn")
+ (:decks-view-deck-btn . "Vis kortbunke")
  (:decks-no-desc . "Ingen beskrivelse.")
  (:decks-share-title . "Delingslink")
  (:decks-share-info . "Alle med dette link kan importere kortbunken:")

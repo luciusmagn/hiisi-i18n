@@ -567,6 +567,7 @@
  (:decks-col-updated . "Aggiornato")
  (:decks-no-decks . "Ancora nessun mazzo.")
  (:decks-open-btn . "Apri")
+ (:decks-view-deck-btn . "Visualizza mazzo")
  (:decks-no-desc . "Nessuna descrizione.")
  (:decks-share-title . "Link di condivisione")
  (:decks-share-info . "Chiunque con questo link può importare il mazzo:")
