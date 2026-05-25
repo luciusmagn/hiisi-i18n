@@ -307,6 +307,8 @@
  (:dashboard-days . "dager")
  (:dashboard-all-caught-up . "Alt er ajour!")
  (:dashboard-all-caught-up-hint . "Oversett mer for å bygge opp samlingen din.")
+ (:dashboard-no-cards-title . "Lag dine første studiekort")
+ (:dashboard-no-cards-hint . "Oversett tekst og lagre nyttige fraser for å bygge opp samlingen din.")
  (:dashboard-getting-started . "Kom i gang")
  (:dashboard-tip-1 . "Oversett tekst du vil lære")
  (:dashboard-tip-2 . "Klikk \"Lagre som flashcard\" på oversettelser du vil huske")

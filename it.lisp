@@ -307,6 +307,8 @@
  (:dashboard-days . "giorni")
  (:dashboard-all-caught-up . "Tutto in pari!")
  (:dashboard-all-caught-up-hint . "Traduci ancora per ampliare la tua raccolta.")
+ (:dashboard-no-cards-title . "Crea le tue prime carte di studio")
+ (:dashboard-no-cards-hint . "Traduci del testo e salva frasi utili per costruire la tua raccolta.")
  (:dashboard-getting-started . "Per iniziare")
  (:dashboard-tip-1 . "Traduci il testo che vuoi imparare")
  (:dashboard-tip-2 . "Clicca \"Salva nelle flashcard\" sulle traduzioni che vuoi ricordare")

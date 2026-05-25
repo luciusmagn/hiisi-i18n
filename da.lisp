@@ -307,6 +307,8 @@
  (:dashboard-days . "dage")
  (:dashboard-all-caught-up . "Du er ajour!")
  (:dashboard-all-caught-up-hint . "Oversæt mere for at udbygge din samling.")
+ (:dashboard-no-cards-title . "Opret dine første studiekort")
+ (:dashboard-no-cards-hint . "Oversæt tekst, og gem nyttige vendinger for at opbygge din samling.")
  (:dashboard-getting-started . "Kom godt i gang")
  (:dashboard-tip-1 . "Oversæt tekst du vil lære")
  (:dashboard-tip-2 . "Klik \"Gem som flashcard\" på oversættelser du vil huske")

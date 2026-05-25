@@ -307,6 +307,8 @@
  (:dashboard-days . "days")
  (:dashboard-all-caught-up . "All caught up!")
  (:dashboard-all-caught-up-hint . "Translate more to build your collection.")
+ (:dashboard-no-cards-title . "Create your first study cards")
+ (:dashboard-no-cards-hint . "Translate text and save useful phrases to build your collection.")
  (:dashboard-getting-started . "Getting Started")
  (:dashboard-tip-1 . "Translate text you want to learn")
  (:dashboard-tip-2 . "Click \"Save to Flashcards\" on translations you want to remember")

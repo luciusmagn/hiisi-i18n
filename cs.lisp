@@ -306,6 +306,8 @@
  (:dashboard-days . "dní")
  (:dashboard-all-caught-up . "Máte hotovo!")
  (:dashboard-all-caught-up-hint . "Překládejte dál a rozšiřujte svou sbírku.")
+ (:dashboard-no-cards-title . "Vytvořte své první studijní kartičky")
+ (:dashboard-no-cards-hint . "Přeložte text a uložte si užitečné fráze, abyste si vytvořili sbírku.")
  (:dashboard-getting-started . "Začínáme")
  (:dashboard-tip-1 . "Přeložte text, který se chcete naučit")
  (:dashboard-tip-2 . "Klikněte na \"Uložit do kartiček\" u překladů, které si chcete zapamatovat")

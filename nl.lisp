@@ -306,6 +306,8 @@
  (:dashboard-days . "dagen")
  (:dashboard-all-caught-up . "Helemaal bij!")
  (:dashboard-all-caught-up-hint . "Vertaal meer om je verzameling uit te bouwen.")
+ (:dashboard-no-cards-title . "Maak je eerste studiekaarten")
+ (:dashboard-no-cards-hint . "Vertaal tekst en sla nuttige zinnen op om je verzameling op te bouwen.")
  (:dashboard-getting-started . "Aan de slag")
  (:dashboard-tip-1 . "Vertaal tekst die je wilt leren")
  (:dashboard-tip-2 . "Klik op \"Opslaan als flashcard\" bij vertalingen die je wilt onthouden")

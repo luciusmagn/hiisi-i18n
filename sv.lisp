@@ -306,6 +306,8 @@
  (:dashboard-days . "dagar")
  (:dashboard-all-caught-up . "Allt är avklarat!")
  (:dashboard-all-caught-up-hint . "Översätt mer för att bygga upp din samling.")
+ (:dashboard-no-cards-title . "Skapa dina första studiekort")
+ (:dashboard-no-cards-hint . "Översätt text och spara användbara fraser för att bygga upp din samling.")
  (:dashboard-getting-started . "Kom igång")
  (:dashboard-tip-1 . "Översätt text du vill lära dig")
  (:dashboard-tip-2 . "Klicka \"Spara som flashcard\" på översättningar du vill komma ihåg")

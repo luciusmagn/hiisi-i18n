@@ -306,6 +306,8 @@
  (:dashboard-days . "päeva")
  (:dashboard-all-caught-up . "Kõik on üle vaadatud!")
  (:dashboard-all-caught-up-hint . "Tõlgi veel, et oma kogu kasvatada.")
+ (:dashboard-no-cards-title . "Loo oma esimesed õppekaardid")
+ (:dashboard-no-cards-hint . "Tõlgi teksti ja salvesta kasulikud fraasid, et oma kogu kasvatada.")
  (:dashboard-getting-started . "Alustamine")
  (:dashboard-tip-1 . "Tõlgi teksti, mida soovid õppida")
  (:dashboard-tip-2 . "Klõpsa \"Salvesta mälukaartidesse\" tõlgetel, mida soovid meelde jätta")
