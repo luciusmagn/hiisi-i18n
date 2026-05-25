@@ -299,6 +299,7 @@
  (:dashboard-mastered-cards . "Zvládnutých kartiček")
  (:dashboard-subscription . "Předplatné")
  (:dashboard-subscribed-until . "Předplaceno do")
+ (:dashboard-trial-ends . "Zkušební období končí")
  (:dashboard-not-subscribed . "Bez předplatného")
  (:dashboard-recent . "Nedávné překlady")
  (:dashboard-no-translations . "Zatím žádné překlady")

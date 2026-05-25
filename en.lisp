@@ -300,6 +300,7 @@
  (:dashboard-mastered-cards . "Mastered Cards")
  (:dashboard-subscription . "Subscription")
  (:dashboard-subscribed-until . "Subscribed until")
+ (:dashboard-trial-ends . "Trial ends")
  (:dashboard-not-subscribed . "Not subscribed")
  (:dashboard-recent . "Recent Translations")
  (:dashboard-no-translations . "No translations yet")

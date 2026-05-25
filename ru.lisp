@@ -300,6 +300,7 @@
  (:dashboard-mastered-cards . "Освоенных карточек")
  (:dashboard-subscription . "Подписка")
  (:dashboard-subscribed-until . "Подписка до")
+ (:dashboard-trial-ends . "Пробный период до")
  (:dashboard-not-subscribed . "Нет подписки")
  (:dashboard-recent . "Недавние переводы")
  (:dashboard-no-translations . "Пока нет переводов")

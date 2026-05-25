@@ -300,6 +300,7 @@
  (:dashboard-mastered-cards . "Opanowanych fiszek")
  (:dashboard-subscription . "Subskrypcja")
  (:dashboard-subscribed-until . "Subskrypcja do")
+ (:dashboard-trial-ends . "Koniec okresu próbnego")
  (:dashboard-not-subscribed . "Brak subskrypcji")
  (:dashboard-recent . "Ostatnie tłumaczenia")
  (:dashboard-no-translations . "Brak tłumaczeń")

@@ -299,6 +299,7 @@
  (:dashboard-mastered-cards . "Bemästrade kort")
  (:dashboard-subscription . "Prenumeration")
  (:dashboard-subscribed-until . "Prenumererar till")
+ (:dashboard-trial-ends . "Provperioden slutar")
  (:dashboard-not-subscribed . "Ingen prenumeration")
  (:dashboard-recent . "Senaste översättningar")
  (:dashboard-no-translations . "Inga översättningar än")

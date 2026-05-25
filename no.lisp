@@ -300,6 +300,7 @@
  (:dashboard-mastered-cards . "Mestrede kort")
  (:dashboard-subscription . "Abonnement")
  (:dashboard-subscribed-until . "Abonnerer til")
+ (:dashboard-trial-ends . "Prøveperioden slutter")
  (:dashboard-not-subscribed . "Ikke abonnert")
  (:dashboard-recent . "Nylige oversettelser")
  (:dashboard-no-translations . "Ingen oversettelser ennå")

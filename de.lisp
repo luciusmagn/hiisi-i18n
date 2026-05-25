@@ -300,6 +300,7 @@
  (:dashboard-mastered-cards . "Beherrschte Karten")
  (:dashboard-subscription . "Abonnement")
  (:dashboard-subscribed-until . "Abonniert bis")
+ (:dashboard-trial-ends . "Testphase endet")
  (:dashboard-not-subscribed . "Nicht abonniert")
  (:dashboard-recent . "Letzte Übersetzungen")
  (:dashboard-no-translations . "Noch keine Übersetzungen")

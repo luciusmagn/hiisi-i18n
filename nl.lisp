@@ -299,6 +299,7 @@
  (:dashboard-mastered-cards . "Beheerste kaarten")
  (:dashboard-subscription . "Abonnement")
  (:dashboard-subscribed-until . "Geabonneerd tot")
+ (:dashboard-trial-ends . "Proefperiode eindigt")
  (:dashboard-not-subscribed . "Niet geabonneerd")
  (:dashboard-recent . "Recente vertalingen")
  (:dashboard-no-translations . "Nog geen vertalingen")

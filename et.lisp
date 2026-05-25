@@ -299,6 +299,7 @@
  (:dashboard-mastered-cards . "Omandatud kaarte")
  (:dashboard-subscription . "Tellimus")
  (:dashboard-subscribed-until . "Tellimus kehtib kuni")
+ (:dashboard-trial-ends . "Prooviperiood lõpeb")
  (:dashboard-not-subscribed . "Tellimus puudub")
  (:dashboard-recent . "Viimased tõlked")
  (:dashboard-no-translations . "Tõlkeid veel pole")

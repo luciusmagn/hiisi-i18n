@@ -299,6 +299,7 @@
  (:dashboard-mastered-cards . "Hallittuja kortteja")
  (:dashboard-subscription . "Tilaus")
  (:dashboard-subscribed-until . "Tilattu asti")
+ (:dashboard-trial-ends . "Kokeilujakso päättyy")
  (:dashboard-not-subscribed . "Ei tilausta")
  (:dashboard-recent . "Viimeaikaiset käännökset")
  (:dashboard-no-translations . "Ei käännöksiä vielä")
