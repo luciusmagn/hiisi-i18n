@@ -63,6 +63,7 @@
 (:auth-institution-benefit-email . "Kasuta kooli või ülikooli e-posti aadressi.")
 (:auth-institution-benefit-access . "Sobivad kontod saavad õppeasutuse ligipääsu pärast e-posti kinnitamist.")
 (:auth-institution-benefit-fallback . "Kui domeeni ei tunta ära, vali isiklik pakett või palu õppeasutusel Hiisiga ühendust võtta.")
+(:auth-see-included . "Vaata, mis sisaldub")
 (:auth-institution-domain-unrecognized . "Me ei tunne seda asutuse e-posti domeeni veel ära. Vali pakett või palu oma asutusel Hiisiga ühendust võtta.")
 (:subscribe-institution-callout-title . "Kasutad Hiisit kooli või ülikooli kaudu?")
 (:subscribe-institution-callout-body . "Registreeru oma asutuse e-postiga ja Hiisi avab ligipääsu automaatselt, kui sinu asutus on juba seadistatud.")

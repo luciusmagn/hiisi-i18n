@@ -64,6 +64,7 @@
 (:auth-institution-benefit-email . "Brug din skole- eller universitetsmailadresse.")
 (:auth-institution-benefit-access . "Berettigede konti får institutionsadgang efter e-mailbekræftelse.")
 (:auth-institution-benefit-fallback . "Hvis domænet ikke genkendes, skal du vælge en individuel plan eller bede din institution om at kontakte Hiisi.")
+(:auth-see-included . "Se hvad der er inkluderet")
 (:auth-institution-domain-unrecognized . "Vi genkender endnu ikke dette institutionsdomæne. Vælg en plan, eller bed din institution om at kontakte Hiisi.")
 (:subscribe-institution-callout-title . "Bruger du Hiisi gennem en skole eller et universitet?")
 (:subscribe-institution-callout-body . "Registrer dig med din institutionsmail, så låser Hiisi automatisk adgang op, hvis din institution allerede er sat op.")

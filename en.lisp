@@ -64,6 +64,7 @@
 (:auth-institution-benefit-email . "Use your school or university email address.")
 (:auth-institution-benefit-access . "Eligible accounts receive institutional access after email verification.")
 (:auth-institution-benefit-fallback . "If the domain is not recognized, choose an individual plan or ask your institution to contact Hiisi.")
+(:auth-see-included . "See what is included")
 (:auth-institution-domain-unrecognized . "We do not recognize that institution email domain yet. Use a plan or ask your institution to contact Hiisi.")
 (:subscribe-institution-callout-title . "Using Hiisi through a school or university?")
 (:subscribe-institution-callout-body . "Register with your institutional email and Hiisi will unlock access automatically if your institution is already set up.")

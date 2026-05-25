@@ -63,6 +63,7 @@
 (:auth-institution-benefit-email . "Gebruik het e-mailadres van je school of universiteit.")
 (:auth-institution-benefit-access . "Geschikte accounts krijgen institutionele toegang na e-mailverificatie.")
 (:auth-institution-benefit-fallback . "Als het domein niet wordt herkend, kies dan een individueel abonnement of vraag je instelling contact op te nemen met Hiisi.")
+(:auth-see-included . "Bekijk wat is inbegrepen")
 (:auth-institution-domain-unrecognized . "We herkennen dat institutionele e-maildomein nog niet. Kies een abonnement of vraag je instelling om contact op te nemen met Hiisi.")
 (:subscribe-institution-callout-title . "Gebruik je Hiisi via een school of universiteit?")
 (:subscribe-institution-callout-body . "Registreer met je institutionele e-mail en Hiisi ontgrendelt automatisch toegang als je instelling al is ingesteld.")

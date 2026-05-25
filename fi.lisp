@@ -63,6 +63,7 @@
 (:auth-institution-benefit-email . "Käytä koulun tai yliopiston sähköpostiosoitetta.")
 (:auth-institution-benefit-access . "Kelvolliset tilit saavat oppilaitoksen käyttöoikeuden sähköpostivahvistuksen jälkeen.")
 (:auth-institution-benefit-fallback . "Jos domainia ei tunnisteta, valitse henkilökohtainen suunnitelma tai pyydä oppilaitostasi ottamaan yhteyttä Hiisiin.")
+(:auth-see-included . "Katso, mitä sisältyy")
 (:auth-institution-domain-unrecognized . "Emme vielä tunnista tuota oppilaitoksen sähköpostidomainia. Valitse tilaus tai pyydä oppilaitostasi ottamaan yhteyttä Hiisiin.")
 (:subscribe-institution-callout-title . "Käytätkö Hiisiä koulun tai yliopiston kautta?")
 (:subscribe-institution-callout-body . "Rekisteröidy oppilaitoksen sähköpostilla, niin Hiisi avaa käyttöoikeuden automaattisesti, jos oppilaitoksesi on jo määritetty.")

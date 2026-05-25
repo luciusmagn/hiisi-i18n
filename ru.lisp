@@ -64,6 +64,7 @@
 (:auth-institution-benefit-email . "Используйте e-mail вашей школы или университета.")
 (:auth-institution-benefit-access . "Подходящие аккаунты получают институциональный доступ после подтверждения e-mail.")
 (:auth-institution-benefit-fallback . "Если домен не распознан, выберите индивидуальный тариф или попросите ваше заведение связаться с Hiisi.")
+(:auth-see-included . "Посмотреть, что включено")
 (:auth-institution-domain-unrecognized . "Мы пока не распознаем этот институциональный домен e-mail. Выберите тариф или попросите ваше заведение связаться с Hiisi.")
 (:subscribe-institution-callout-title . "Используете Hiisi через школу или университет?")
 (:subscribe-institution-callout-body . "Зарегистрируйтесь с институциональным e-mail, и Hiisi автоматически откроет доступ, если ваше заведение уже настроено.")

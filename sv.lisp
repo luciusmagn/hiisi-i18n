@@ -63,6 +63,7 @@
 (:auth-institution-benefit-email . "Använd din skolas eller ditt universitets e-postadress.")
 (:auth-institution-benefit-access . "Behöriga konton får institutionsåtkomst efter e-postverifiering.")
 (:auth-institution-benefit-fallback . "Om domänen inte känns igen, välj en individuell plan eller be din institution kontakta Hiisi.")
+(:auth-see-included . "Se vad som ingår")
 (:auth-institution-domain-unrecognized . "Vi känner inte igen den institutionella e-postdomänen än. Välj en plan eller be din institution kontakta Hiisi.")
 (:subscribe-institution-callout-title . "Använder du Hiisi via en skola eller ett universitet?")
 (:subscribe-institution-callout-body . "Registrera dig med din institutionella e-postadress, så låser Hiisi upp åtkomst automatiskt om din institution redan är konfigurerad.")
