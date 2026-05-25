@@ -576,6 +576,7 @@
  (:decks-no-decks . "Brak talii.")
  (:decks-open-btn . "Otwórz")
  (:decks-view-deck-btn . "Zobacz talię")
+ (:decks-start-review . "Rozpocznij powtórkę")
  (:decks-no-desc . "Brak opisu.")
  (:decks-share-title . "Link do udostępnienia")
  (:decks-share-info . "Każdy z tym linkiem może zaimportować talię:")

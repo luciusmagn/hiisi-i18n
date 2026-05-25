@@ -575,6 +575,7 @@
  (:decks-no-decks . "Kaardipakke veel pole.")
  (:decks-open-btn . "Ava")
  (:decks-view-deck-btn . "Vaata pakki")
+ (:decks-start-review . "Alusta kordamist")
  (:decks-no-desc . "Kirjeldus puudub.")
  (:decks-share-title . "Jagamislink")
  (:decks-share-info . "Igaüks selle lingiga saab kaardipaki importida:")

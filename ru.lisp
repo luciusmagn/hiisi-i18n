@@ -576,6 +576,7 @@
  (:decks-no-decks . "Колод пока нет.")
  (:decks-open-btn . "Открыть")
  (:decks-view-deck-btn . "Посмотреть колоду")
+ (:decks-start-review . "Начать повторение")
  (:decks-no-desc . "Без описания.")
  (:decks-share-title . "Ссылка для обмена")
  (:decks-share-info . "Любой с этой ссылкой может импортировать колоду:")

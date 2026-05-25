@@ -576,6 +576,7 @@
  (:decks-no-decks . "Noch keine Stapel.")
  (:decks-open-btn . "Öffnen")
  (:decks-view-deck-btn . "Deck ansehen")
+ (:decks-start-review . "Wiederholung starten")
  (:decks-no-desc . "Keine Beschreibung.")
  (:decks-share-title . "Teilen-Link")
  (:decks-share-info . "Jeder mit diesem Link kann den Stapel importieren:")

@@ -576,6 +576,7 @@
  (:decks-no-decks . "Ancora nessun mazzo.")
  (:decks-open-btn . "Apri")
  (:decks-view-deck-btn . "Visualizza mazzo")
+ (:decks-start-review . "Inizia il ripasso")
  (:decks-no-desc . "Nessuna descrizione.")
  (:decks-share-title . "Link di condivisione")
  (:decks-share-info . "Chiunque con questo link può importare il mazzo:")

@@ -575,6 +575,7 @@
  (:decks-no-decks . "Zatím žádné balíčky.")
  (:decks-open-btn . "Otevřít")
  (:decks-view-deck-btn . "Zobrazit balíček")
+ (:decks-start-review . "Začít opakování")
  (:decks-no-desc . "Bez popisu.")
  (:decks-share-title . "Odkaz ke sdílení")
  (:decks-share-info . "Kdokoli s tímto odkazem může balíček importovat:")
