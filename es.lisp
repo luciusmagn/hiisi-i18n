@@ -560,6 +560,8 @@
  (:decks-create-btn . "Crear mazo")
  (:decks-edit-title . "Editar mazo")
  (:decks-edit-btn . "Editar mazo")
+ (:decks-actions-title . "Acciones del mazo")
+ (:decks-card-actions-title . "Acciones de tarjeta")
  (:decks-update-btn . "Guardar cambios")
  (:decks-default-badge . "Automático")
  (:decks-default-description . "Este mazo se gestiona automáticamente para este par de idiomas.")

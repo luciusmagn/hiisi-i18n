@@ -560,6 +560,8 @@
  (:decks-create-btn . "Crea mazzo")
  (:decks-edit-title . "Modifica mazzo")
  (:decks-edit-btn . "Modifica mazzo")
+ (:decks-actions-title . "Azioni del mazzo")
+ (:decks-card-actions-title . "Azioni della scheda")
  (:decks-update-btn . "Salva modifiche")
  (:decks-default-badge . "Automatico")
  (:decks-default-description . "Questo mazzo è gestito automaticamente per questa coppia di lingue.")

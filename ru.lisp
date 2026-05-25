@@ -560,6 +560,8 @@
  (:decks-create-btn . "Создать колоду")
  (:decks-edit-title . "Редактировать колоду")
  (:decks-edit-btn . "Редактировать колоду")
+ (:decks-actions-title . "Действия с колодой")
+ (:decks-card-actions-title . "Действия с карточкой")
  (:decks-update-btn . "Сохранить изменения")
  (:decks-default-badge . "Автоматическая")
  (:decks-default-description . "Эта колода управляется автоматически для этой языковой пары.")

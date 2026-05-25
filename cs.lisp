@@ -559,6 +559,8 @@
  (:decks-create-btn . "Vytvořit balíček")
  (:decks-edit-title . "Upravit balíček")
  (:decks-edit-btn . "Upravit balíček")
+ (:decks-actions-title . "Akce s balíčkem")
+ (:decks-card-actions-title . "Akce s kartou")
  (:decks-update-btn . "Uložit změny")
  (:decks-default-badge . "Automatický")
  (:decks-default-description . "Tento balíček se pro tento jazykový pár spravuje automaticky.")

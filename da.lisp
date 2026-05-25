@@ -560,6 +560,8 @@
  (:decks-create-btn . "Opret kortbunke")
  (:decks-edit-title . "Redigér kortbunke")
  (:decks-edit-btn . "Redigér kortbunke")
+ (:decks-actions-title . "Handlinger for kortbunke")
+ (:decks-card-actions-title . "Korthandlinger")
  (:decks-update-btn . "Gem ændringer")
  (:decks-default-badge . "Automatisk")
  (:decks-default-description . "Denne kortbunke administreres automatisk for dette sprogpar.")

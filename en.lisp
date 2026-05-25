@@ -561,6 +561,8 @@
  (:decks-create-btn . "Create deck")
  (:decks-edit-title . "Edit deck")
  (:decks-edit-btn . "Edit deck")
+ (:decks-actions-title . "Deck actions")
+ (:decks-card-actions-title . "Card actions")
  (:decks-update-btn . "Save changes")
  (:decks-default-badge . "Automatic")
  (:decks-default-description . "This deck is managed automatically for this language pair.")

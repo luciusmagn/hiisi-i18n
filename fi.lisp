@@ -559,6 +559,8 @@
  (:decks-create-btn . "Luo pakka")
  (:decks-edit-title . "Muokkaa pakkaa")
  (:decks-edit-btn . "Muokkaa pakkaa")
+ (:decks-actions-title . "Pakan toiminnot")
+ (:decks-card-actions-title . "Kortin toiminnot")
  (:decks-update-btn . "Tallenna muutokset")
  (:decks-default-badge . "Automaattinen")
  (:decks-default-description . "Tätä pakkaa hallitaan automaattisesti tälle kieliparille.")

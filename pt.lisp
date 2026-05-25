@@ -560,6 +560,8 @@
  (:decks-create-btn . "Criar baralho")
  (:decks-edit-title . "Editar baralho")
  (:decks-edit-btn . "Editar baralho")
+ (:decks-actions-title . "Ações do baralho")
+ (:decks-card-actions-title . "Ações do cartão")
  (:decks-update-btn . "Guardar alterações")
  (:decks-default-badge . "Automático")
  (:decks-default-description . "Este baralho é gerido automaticamente para este par de línguas.")

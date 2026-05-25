@@ -559,6 +559,8 @@
  (:decks-create-btn . "Skapa kortlek")
  (:decks-edit-title . "Redigera kortlek")
  (:decks-edit-btn . "Redigera kortlek")
+ (:decks-actions-title . "Kortleksåtgärder")
+ (:decks-card-actions-title . "Kortåtgärder")
  (:decks-update-btn . "Spara ändringar")
  (:decks-default-badge . "Automatisk")
  (:decks-default-description . "Den här kortleken hanteras automatiskt för det här språkparet.")

@@ -559,6 +559,8 @@
  (:decks-create-btn . "Loo kaardipakk")
  (:decks-edit-title . "Muuda kaardipakki")
  (:decks-edit-btn . "Muuda kaardipakki")
+ (:decks-actions-title . "Kaardipaki toimingud")
+ (:decks-card-actions-title . "Kaardi toimingud")
  (:decks-update-btn . "Salvesta muudatused")
  (:decks-default-badge . "Automaatne")
  (:decks-default-description . "Seda kaardipakki hallatakse selle keelepaari jaoks automaatselt.")

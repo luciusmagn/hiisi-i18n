@@ -560,6 +560,8 @@
  (:decks-create-btn . "Lag kortstokk")
  (:decks-edit-title . "Rediger kortstokk")
  (:decks-edit-btn . "Rediger kortstokk")
+ (:decks-actions-title . "Kortstokkhandlinger")
+ (:decks-card-actions-title . "Korthandlinger")
  (:decks-update-btn . "Lagre endringer")
  (:decks-default-badge . "Automatisk")
  (:decks-default-description . "Denne kortstokken administreres automatisk for dette språkparet.")

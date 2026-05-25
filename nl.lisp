@@ -559,6 +559,8 @@
  (:decks-create-btn . "Stapel maken")
  (:decks-edit-title . "Stapel bewerken")
  (:decks-edit-btn . "Stapel bewerken")
+ (:decks-actions-title . "Stapelacties")
+ (:decks-card-actions-title . "Kaartacties")
  (:decks-update-btn . "Wijzigingen opslaan")
  (:decks-default-badge . "Automatisch")
  (:decks-default-description . "Deze stapel wordt automatisch beheerd voor dit talenpaar.")

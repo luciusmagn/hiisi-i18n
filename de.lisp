@@ -560,6 +560,8 @@
  (:decks-create-btn . "Stapel erstellen")
  (:decks-edit-title . "Stapel bearbeiten")
  (:decks-edit-btn . "Stapel bearbeiten")
+ (:decks-actions-title . "Stapelaktionen")
+ (:decks-card-actions-title . "Kartenaktionen")
  (:decks-update-btn . "Änderungen speichern")
  (:decks-default-badge . "Automatisch")
  (:decks-default-description . "Dieser Stapel wird für dieses Sprachenpaar automatisch verwaltet.")

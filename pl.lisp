@@ -560,6 +560,8 @@
  (:decks-create-btn . "Utwórz talię")
  (:decks-edit-title . "Edytuj talię")
  (:decks-edit-btn . "Edytuj talię")
+ (:decks-actions-title . "Akcje talii")
+ (:decks-card-actions-title . "Akcje karty")
  (:decks-update-btn . "Zapisz zmiany")
  (:decks-default-badge . "Automatyczna")
  (:decks-default-description . "Ta talia jest zarządzana automatycznie dla tej pary języków.")

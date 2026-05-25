@@ -561,6 +561,8 @@
  (:decks-create-btn . "Créer le paquet")
  (:decks-edit-title . "Modifier le paquet")
  (:decks-edit-btn . "Modifier le paquet")
+ (:decks-actions-title . "Actions du paquet")
+ (:decks-card-actions-title . "Actions de la carte")
  (:decks-update-btn . "Enregistrer les modifications")
  (:decks-default-badge . "Automatique")
  (:decks-default-description . "Ce paquet est géré automatiquement pour cette paire de langues.")
