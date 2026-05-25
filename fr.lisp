@@ -613,6 +613,7 @@
  (:starter-decks-card-count . "~A cartes")
  (:starter-decks-no-results . "Aucun paquet ne correspond à ces filtres.")
  (:starter-decks-source-cards-title . "Cartes dans ce paquet")
+ (:starter-decks-more-cards-included . "+~A cartes supplémentaires incluses.")
  (:starter-decks-sample-title . "Cartes d'exemple")
  (:starter-decks-generating . "Préparation de votre paquet ~A")
  (:starter-decks-generating-detail . "Nous l'importerons dès qu'il sera prêt. Vous pouvez continuer à parcourir la Bibliothèque ou revenir dans un instant.")

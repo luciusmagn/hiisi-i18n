@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A Karten")
  (:starter-decks-no-results . "Keine Decks entsprechen diesen Filtern.")
  (:starter-decks-source-cards-title . "Karten in diesem Deck")
+ (:starter-decks-more-cards-included . "+~A weitere Karten enthalten.")
  (:starter-decks-sample-title . "Beispielkarten")
  (:starter-decks-generating . "Dein Deck ~A wird vorbereitet")
  (:starter-decks-generating-detail . "Wir importieren es, sobald es bereit ist. Du kannst weiter in der Bibliothek stöbern oder gleich wiederkommen.")

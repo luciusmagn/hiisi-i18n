@@ -611,6 +611,7 @@
  (:starter-decks-card-count . "~A kaarti")
  (:starter-decks-no-results . "Ükski pakk ei vasta nendele filtritele.")
  (:starter-decks-source-cards-title . "Kaardid selles pakis")
+ (:starter-decks-more-cards-included . "+~A kaarti veel kaasas.")
  (:starter-decks-sample-title . "Näidiskaardid")
  (:starter-decks-generating . "Valmistame sinu pakki: ~A")
  (:starter-decks-generating-detail . "Impordime selle kohe, kui see on valmis. Võid jätkata teegi sirvimist või tulla hetke pärast tagasi.")

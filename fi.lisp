@@ -611,6 +611,7 @@
  (:starter-decks-card-count . "~A korttia")
  (:starter-decks-no-results . "Yksikään pakka ei vastaa näitä suodattimia.")
  (:starter-decks-source-cards-title . "Tämän pakan kortit")
+ (:starter-decks-more-cards-included . "+~A muuta korttia mukana.")
  (:starter-decks-sample-title . "Esimerkkikortit")
  (:starter-decks-generating . "Valmistellaan pakkaasi: ~A")
  (:starter-decks-generating-detail . "Tuomme sen kokoelmaasi heti, kun se on valmis. Voit jatkaa kirjaston selaamista tai palata hetken kuluttua.")

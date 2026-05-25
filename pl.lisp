@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A kart")
  (:starter-decks-no-results . "Żadne talie nie pasują do tych filtrów.")
  (:starter-decks-source-cards-title . "Karty w tej talii")
+ (:starter-decks-more-cards-included . "+~A dodatkowych kart w zestawie.")
  (:starter-decks-sample-title . "Karty przykładowe")
  (:starter-decks-generating . "Przygotowujemy Twoją talię ~A")
  (:starter-decks-generating-detail . "Zaimportujemy ją, gdy tylko będzie gotowa. Możesz dalej przeglądać Bibliotekę albo wrócić za chwilę.")

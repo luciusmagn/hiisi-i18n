@@ -611,6 +611,7 @@
  (:starter-decks-card-count . "~A kaarten")
  (:starter-decks-no-results . "Geen decks komen overeen met deze filters.")
  (:starter-decks-source-cards-title . "Kaarten in deze set")
+ (:starter-decks-more-cards-included . "+~A extra kaarten inbegrepen.")
  (:starter-decks-sample-title . "Voorbeeldkaarten")
  (:starter-decks-generating . "Je deck ~A wordt voorbereid")
  (:starter-decks-generating-detail . "We importeren het zodra het klaar is. Je kunt verder bladeren in de Bibliotheek of zo terugkomen.")

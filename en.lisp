@@ -613,6 +613,7 @@
  (:starter-decks-card-count . "~A cards")
  (:starter-decks-no-results . "No decks match these filters.")
  (:starter-decks-source-cards-title . "Cards in this deck")
+ (:starter-decks-more-cards-included . "+~A more cards included.")
  (:starter-decks-sample-title . "Sample cards")
  (:starter-decks-generating . "Preparing your ~A deck")
  (:starter-decks-generating-detail . "We'll import it as soon as it is ready. You can keep browsing Library or come back in a moment.")

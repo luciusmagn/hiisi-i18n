@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A карточек")
  (:starter-decks-no-results . "Нет колод, подходящих под эти фильтры.")
  (:starter-decks-source-cards-title . "Карточки в этой колоде")
+ (:starter-decks-more-cards-included . "+~A дополнительных карточек включено.")
  (:starter-decks-sample-title . "Примеры карточек")
  (:starter-decks-generating . "Готовим вашу колоду ~A")
  (:starter-decks-generating-detail . "Мы импортируем её, как только она будет готова. Можно продолжить просматривать библиотеку или вернуться через минуту.")

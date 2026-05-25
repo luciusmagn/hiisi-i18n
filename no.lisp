@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A kort")
  (:starter-decks-no-results . "Ingen kortstokker passer disse filtrene.")
  (:starter-decks-source-cards-title . "Kort i denne kortstokken")
+ (:starter-decks-more-cards-included . "+~A flere kort inkludert.")
  (:starter-decks-sample-title . "Eksempelkort")
  (:starter-decks-generating . "Forbereder kortstokken din: ~A")
  (:starter-decks-generating-detail . "Vi importerer den så snart den er klar. Du kan fortsette å bla i Biblioteket eller komme tilbake om litt.")

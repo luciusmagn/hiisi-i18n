@@ -611,6 +611,7 @@
  (:starter-decks-card-count . "~A karet")
  (:starter-decks-no-results . "Žádné balíčky neodpovídají těmto filtrům.")
  (:starter-decks-source-cards-title . "Karty v tomto balíčku")
+ (:starter-decks-more-cards-included . "+~A dalších karet v balíčku.")
  (:starter-decks-sample-title . "Ukázkové karty")
  (:starter-decks-generating . "Připravujeme váš balíček ~A")
  (:starter-decks-generating-detail . "Jakmile bude hotový, importujeme ho. Můžete dál procházet knihovnu nebo se za chvíli vrátit.")

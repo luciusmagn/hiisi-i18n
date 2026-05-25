@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A carte")
  (:starter-decks-no-results . "Nessun mazzo corrisponde a questi filtri.")
  (:starter-decks-source-cards-title . "Carte in questo mazzo")
+ (:starter-decks-more-cards-included . "+~A altre carte incluse.")
  (:starter-decks-sample-title . "Carte di esempio")
  (:starter-decks-generating . "Preparazione del tuo mazzo ~A")
  (:starter-decks-generating-detail . "Lo importeremo appena sarà pronto. Puoi continuare a esplorare la Biblioteca o tornare tra poco.")

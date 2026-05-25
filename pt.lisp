@@ -612,6 +612,7 @@
  (:starter-decks-card-count . "~A cartões")
  (:starter-decks-no-results . "Nenhum baralho corresponde a estes filtros.")
  (:starter-decks-source-cards-title . "Cartões neste baralho")
+ (:starter-decks-more-cards-included . "+~A cartões adicionais incluídos.")
  (:starter-decks-sample-title . "Cartões de exemplo")
  (:starter-decks-generating . "A preparar o seu baralho ~A")
  (:starter-decks-generating-detail . "Vamos importá-lo assim que estiver pronto. Pode continuar a explorar a Biblioteca ou voltar dentro de instantes.")
