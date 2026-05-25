@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Applica filtri")
  (:starter-decks-select-triplet-hint . "Scegli la lingua di partenza e di arrivo per esplorare i mazzi compatibili.")
  (:starter-decks-official-badge . "Ufficiale")
+ (:starter-decks-official-by-hiisi . "Ufficiale di Hiisi")
  (:starter-decks-community-badge . "Comunità")
  (:starter-decks-by-hiisi . "Di Hiisi")
  (:starter-decks-preview-btn . "Anteprima")

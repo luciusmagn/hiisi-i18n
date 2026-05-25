@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Aplicar filtros")
  (:starter-decks-select-triplet-hint . "Elige el idioma de origen y destino para explorar mazos compatibles.")
  (:starter-decks-official-badge . "Oficial")
+ (:starter-decks-official-by-hiisi . "Oficial de Hiisi")
  (:starter-decks-community-badge . "Comunidad")
  (:starter-decks-by-hiisi . "De Hiisi")
  (:starter-decks-preview-btn . "Vista previa")

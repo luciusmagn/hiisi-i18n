@@ -617,6 +617,7 @@
  (:starter-decks-apply-filters . "Käytä suodattimia")
  (:starter-decks-select-triplet-hint . "Valitse lähtö- ja kohdekieli selataksesi sopivia pakkoja.")
  (:starter-decks-official-badge . "Virallinen")
+ (:starter-decks-official-by-hiisi . "Hiisin virallinen")
  (:starter-decks-community-badge . "Yhteisö")
  (:starter-decks-by-hiisi . "Hiisiltä")
  (:starter-decks-preview-btn . "Esikatsele")

@@ -617,6 +617,7 @@
  (:starter-decks-apply-filters . "Använd filter")
  (:starter-decks-select-triplet-hint . "Välj källspråk och målspråk för att bläddra bland matchande kortlekar.")
  (:starter-decks-official-badge . "Officiell")
+ (:starter-decks-official-by-hiisi . "Officiell från Hiisi")
  (:starter-decks-community-badge . "Community")
  (:starter-decks-by-hiisi . "Av Hiisi")
  (:starter-decks-preview-btn . "Förhandsgranska")

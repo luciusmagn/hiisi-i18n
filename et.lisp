@@ -617,6 +617,7 @@
  (:starter-decks-apply-filters . "Rakenda filtrid")
  (:starter-decks-select-triplet-hint . "Sobivate pakkide sirvimiseks vali lähte- ja sihtkeel.")
  (:starter-decks-official-badge . "Ametlik")
+ (:starter-decks-official-by-hiisi . "Hiisi ametlik")
  (:starter-decks-community-badge . "Kogukond")
  (:starter-decks-by-hiisi . "Hiisilt")
  (:starter-decks-preview-btn . "Eelvaade")

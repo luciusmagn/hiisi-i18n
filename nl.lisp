@@ -617,6 +617,7 @@
  (:starter-decks-apply-filters . "Filters toepassen")
  (:starter-decks-select-triplet-hint . "Kies bron- en doeltaal om passende decks te bekijken.")
  (:starter-decks-official-badge . "Officieel")
+ (:starter-decks-official-by-hiisi . "Officieel van Hiisi")
  (:starter-decks-community-badge . "Community")
  (:starter-decks-by-hiisi . "Van Hiisi")
  (:starter-decks-preview-btn . "Bekijken")

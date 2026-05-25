@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Bruk filtre")
  (:starter-decks-select-triplet-hint . "Velg kilde- og målspråk for å bla gjennom passende kortstokker.")
  (:starter-decks-official-badge . "Offisiell")
+ (:starter-decks-official-by-hiisi . "Offisiell fra Hiisi")
  (:starter-decks-community-badge . "Fellesskap")
  (:starter-decks-by-hiisi . "Fra Hiisi")
  (:starter-decks-preview-btn . "Forhåndsvis")

@@ -619,6 +619,7 @@
  (:starter-decks-apply-filters . "Apply filters")
  (:starter-decks-select-triplet-hint . "Choose source and target languages to browse matching decks.")
  (:starter-decks-official-badge . "Official")
+ (:starter-decks-official-by-hiisi . "Official by Hiisi")
  (:starter-decks-community-badge . "Community")
  (:starter-decks-by-hiisi . "By Hiisi")
  (:starter-decks-preview-btn . "Preview")

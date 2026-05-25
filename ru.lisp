@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Применить фильтры")
  (:starter-decks-select-triplet-hint . "Выберите исходный и целевой язык, чтобы просматривать подходящие колоды.")
  (:starter-decks-official-badge . "Официальная")
+ (:starter-decks-official-by-hiisi . "Официально от Hiisi")
  (:starter-decks-community-badge . "Сообщество")
  (:starter-decks-by-hiisi . "От Hiisi")
  (:starter-decks-preview-btn . "Предпросмотр")

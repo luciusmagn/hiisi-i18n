@@ -617,6 +617,7 @@
  (:starter-decks-apply-filters . "Použít filtry")
  (:starter-decks-select-triplet-hint . "Vyberte zdrojový a cílový jazyk a procházejte odpovídající balíčky.")
  (:starter-decks-official-badge . "Oficiální")
+ (:starter-decks-official-by-hiisi . "Oficiálně od Hiisi")
  (:starter-decks-community-badge . "Komunitní")
  (:starter-decks-by-hiisi . "Od Hiisi")
  (:starter-decks-preview-btn . "Náhled")

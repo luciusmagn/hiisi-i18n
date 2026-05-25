@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Anvend filtre")
  (:starter-decks-select-triplet-hint . "Vælg kilde- og målsprog for at gennemse matchende kortbunker.")
  (:starter-decks-official-badge . "Officiel")
+ (:starter-decks-official-by-hiisi . "Officiel fra Hiisi")
  (:starter-decks-community-badge . "Fællesskab")
  (:starter-decks-by-hiisi . "Fra Hiisi")
  (:starter-decks-preview-btn . "Forhåndsvis")

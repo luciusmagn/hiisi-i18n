@@ -618,6 +618,7 @@
  (:starter-decks-apply-filters . "Aplicar filtros")
  (:starter-decks-select-triplet-hint . "Escolha o idioma de origem e de destino para explorar baralhos correspondentes.")
  (:starter-decks-official-badge . "Oficial")
+ (:starter-decks-official-by-hiisi . "Oficial da Hiisi")
  (:starter-decks-community-badge . "Comunidade")
  (:starter-decks-by-hiisi . "Da Hiisi")
  (:starter-decks-preview-btn . "Pré-visualizar")
