@@ -291,6 +291,9 @@
 
  ;; Dashboard
  (:dashboard-title . "Ülevaade")
+ (:dashboard-welcome-title . "Alusta päris tõlkega")
+ (:dashboard-welcome-subtitle . "Proovi kõigepealt ühte lauset, seejärel salvesta kasulikud tulemused ja korda neid, kui aeg käes on.")
+ (:dashboard-take-quick-tour . "Vaata kiiret tutvustust")
  (:dashboard-cards-due . "Ootel kaardid")
  (:dashboard-total-cards . "Kaarte kokku")
  (:dashboard-mastered-cards . "Omandatud kaarte")

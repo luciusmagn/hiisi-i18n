@@ -292,6 +292,9 @@
 
  ;; Dashboard
  (:dashboard-title . "Panel")
+ (:dashboard-welcome-title . "Zacznij od prawdziwego tłumaczenia")
+ (:dashboard-welcome-subtitle . "Najpierw wypróbuj jedno zdanie, potem zapisz przydatne wyniki i powtarzaj je, gdy nadejdzie pora.")
+ (:dashboard-take-quick-tour . "Szybki przewodnik")
  (:dashboard-cards-due . "Fiszki na dziś")
  (:dashboard-total-cards . "Wszystkie fiszki")
  (:dashboard-mastered-cards . "Opanowanych fiszek")

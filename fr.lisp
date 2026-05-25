@@ -292,6 +292,9 @@
 
  ;; Dashboard
  (:dashboard-title . "Tableau de bord")
+ (:dashboard-welcome-title . "Commencez par une vraie traduction")
+ (:dashboard-welcome-subtitle . "Essayez d'abord une phrase, puis enregistrez les résultats utiles et révisez-les quand ils arrivent à échéance.")
+ (:dashboard-take-quick-tour . "Faire une visite rapide")
  (:dashboard-cards-due . "Cartes dues")
  (:dashboard-total-cards . "Total des cartes")
  (:dashboard-mastered-cards . "Cartes maîtrisées")

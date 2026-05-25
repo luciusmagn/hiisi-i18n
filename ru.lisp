@@ -292,6 +292,9 @@
 
  ;; Dashboard
  (:dashboard-title . "Панель")
+ (:dashboard-welcome-title . "Начните с реального перевода")
+ (:dashboard-welcome-subtitle . "Сначала попробуйте одно предложение, затем сохраните полезные результаты и повторяйте их, когда придёт время.")
+ (:dashboard-take-quick-tour . "Пройти быстрый обзор")
  (:dashboard-cards-due . "Карточек на сегодня")
  (:dashboard-total-cards . "Всего карточек")
  (:dashboard-mastered-cards . "Освоенных карточек")

@@ -291,6 +291,9 @@
 
  ;; Dashboard
  (:dashboard-title . "Hallintapaneeli")
+ (:dashboard-welcome-title . "Aloita oikealla käännöksellä")
+ (:dashboard-welcome-subtitle . "Kokeile ensin yhtä lausetta, tallenna sitten hyödylliset tulokset ja kertaa ne, kun niiden aika tulee.")
+ (:dashboard-take-quick-tour . "Katso nopea kierros")
  (:dashboard-cards-due . "Kerattavat kortit")
  (:dashboard-total-cards . "Kortit yhteensä")
  (:dashboard-mastered-cards . "Hallittuja kortteja")
