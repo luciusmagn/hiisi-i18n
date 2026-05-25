@@ -599,6 +599,8 @@
  (:starter-decks-search-label . "Sök")
  (:starter-decks-source-label . "Källa")
  (:starter-decks-source-all . "Alla kortlekar")
+ (:starter-decks-change-language . "Ändra")
+ (:starter-decks-filters-button . "Filter")
  (:starter-decks-search-placeholder . "Sök i biblioteket")
  (:starter-decks-apply-filters . "Använd filter")
  (:starter-decks-select-triplet-hint . "Välj källspråk och målspråk för att bläddra bland matchande kortlekar.")

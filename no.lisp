@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Søk")
  (:starter-decks-source-label . "Kilde")
  (:starter-decks-source-all . "Alle kortstokker")
+ (:starter-decks-change-language . "Endre")
+ (:starter-decks-filters-button . "Filtre")
  (:starter-decks-search-placeholder . "Søk i biblioteket")
  (:starter-decks-apply-filters . "Bruk filtre")
  (:starter-decks-select-triplet-hint . "Velg kilde- og målspråk for å bla gjennom passende kortstokker.")

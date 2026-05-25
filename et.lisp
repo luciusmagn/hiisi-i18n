@@ -599,6 +599,8 @@
  (:starter-decks-search-label . "Otsi")
  (:starter-decks-source-label . "Allikas")
  (:starter-decks-source-all . "Kõik pakid")
+ (:starter-decks-change-language . "Muuda")
+ (:starter-decks-filters-button . "Filtrid")
  (:starter-decks-search-placeholder . "Otsi teegist")
  (:starter-decks-apply-filters . "Rakenda filtrid")
  (:starter-decks-select-triplet-hint . "Sobivate pakkide sirvimiseks vali lähte- ja sihtkeel.")

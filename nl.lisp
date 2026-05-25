@@ -599,6 +599,8 @@
  (:starter-decks-search-label . "Zoeken")
  (:starter-decks-source-label . "Bron")
  (:starter-decks-source-all . "Alle decks")
+ (:starter-decks-change-language . "Wijzigen")
+ (:starter-decks-filters-button . "Filters")
  (:starter-decks-search-placeholder . "Zoek in de bibliotheek")
  (:starter-decks-apply-filters . "Filters toepassen")
  (:starter-decks-select-triplet-hint . "Kies bron- en doeltaal om passende decks te bekijken.")

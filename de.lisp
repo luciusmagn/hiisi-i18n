@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Suchen")
  (:starter-decks-source-label . "Quelle")
  (:starter-decks-source-all . "Alle Decks")
+ (:starter-decks-change-language . "Ändern")
+ (:starter-decks-filters-button . "Filter")
  (:starter-decks-search-placeholder . "Bibliothek durchsuchen")
  (:starter-decks-apply-filters . "Filter anwenden")
  (:starter-decks-select-triplet-hint . "Wähle Quell- und Zielsprache, um passende Decks zu durchsuchen.")

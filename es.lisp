@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Buscar")
  (:starter-decks-source-label . "Origen")
  (:starter-decks-source-all . "Todos los mazos")
+ (:starter-decks-change-language . "Cambiar")
+ (:starter-decks-filters-button . "Filtros")
  (:starter-decks-search-placeholder . "Buscar en la biblioteca")
  (:starter-decks-apply-filters . "Aplicar filtros")
  (:starter-decks-select-triplet-hint . "Elige el idioma de origen y destino para explorar mazos compatibles.")

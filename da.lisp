@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Søg")
  (:starter-decks-source-label . "Kilde")
  (:starter-decks-source-all . "Alle kortbunker")
+ (:starter-decks-change-language . "Skift")
+ (:starter-decks-filters-button . "Filtre")
  (:starter-decks-search-placeholder . "Søg i biblioteket")
  (:starter-decks-apply-filters . "Anvend filtre")
  (:starter-decks-select-triplet-hint . "Vælg kilde- og målsprog for at gennemse matchende kortbunker.")

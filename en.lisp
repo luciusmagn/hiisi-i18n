@@ -601,6 +601,8 @@
  (:starter-decks-search-label . "Search")
  (:starter-decks-source-label . "Source")
  (:starter-decks-source-all . "All decks")
+ (:starter-decks-change-language . "Change")
+ (:starter-decks-filters-button . "Filters")
  (:starter-decks-search-placeholder . "Search the Library")
  (:starter-decks-apply-filters . "Apply filters")
  (:starter-decks-select-triplet-hint . "Choose source and target languages to browse matching decks.")

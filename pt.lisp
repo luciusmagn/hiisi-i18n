@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Pesquisar")
  (:starter-decks-source-label . "Origem")
  (:starter-decks-source-all . "Todos os baralhos")
+ (:starter-decks-change-language . "Alterar")
+ (:starter-decks-filters-button . "Filtros")
  (:starter-decks-search-placeholder . "Pesquisar na biblioteca")
  (:starter-decks-apply-filters . "Aplicar filtros")
  (:starter-decks-select-triplet-hint . "Escolha o idioma de origem e de destino para explorar baralhos correspondentes.")

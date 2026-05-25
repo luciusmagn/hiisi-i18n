@@ -599,6 +599,8 @@
  (:starter-decks-search-label . "Etsi")
  (:starter-decks-source-label . "Lähde")
  (:starter-decks-source-all . "Kaikki pakat")
+ (:starter-decks-change-language . "Vaihda")
+ (:starter-decks-filters-button . "Suodattimet")
  (:starter-decks-search-placeholder . "Etsi kirjastosta")
  (:starter-decks-apply-filters . "Käytä suodattimia")
  (:starter-decks-select-triplet-hint . "Valitse lähtö- ja kohdekieli selataksesi sopivia pakkoja.")

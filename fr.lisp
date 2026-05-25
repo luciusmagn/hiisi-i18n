@@ -601,6 +601,8 @@
  (:starter-decks-search-label . "Recherche")
  (:starter-decks-source-label . "Source")
  (:starter-decks-source-all . "Tous les paquets")
+ (:starter-decks-change-language . "Modifier")
+ (:starter-decks-filters-button . "Filtres")
  (:starter-decks-search-placeholder . "Rechercher dans la bibliothèque")
  (:starter-decks-apply-filters . "Appliquer les filtres")
  (:starter-decks-select-triplet-hint . "Choisissez les langues source et cible pour parcourir les paquets correspondants.")

@@ -599,6 +599,8 @@
  (:starter-decks-search-label . "Hledat")
  (:starter-decks-source-label . "Zdroj")
  (:starter-decks-source-all . "Všechny balíčky")
+ (:starter-decks-change-language . "Změnit")
+ (:starter-decks-filters-button . "Filtry")
  (:starter-decks-search-placeholder . "Hledat v knihovně")
  (:starter-decks-apply-filters . "Použít filtry")
  (:starter-decks-select-triplet-hint . "Vyberte zdrojový a cílový jazyk a procházejte odpovídající balíčky.")

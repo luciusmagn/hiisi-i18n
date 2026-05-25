@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Cerca")
  (:starter-decks-source-label . "Origine")
  (:starter-decks-source-all . "Tutti i mazzi")
+ (:starter-decks-change-language . "Cambia")
+ (:starter-decks-filters-button . "Filtri")
  (:starter-decks-search-placeholder . "Cerca nella biblioteca")
  (:starter-decks-apply-filters . "Applica filtri")
  (:starter-decks-select-triplet-hint . "Scegli la lingua di partenza e di arrivo per esplorare i mazzi compatibili.")

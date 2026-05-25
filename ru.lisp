@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Поиск")
  (:starter-decks-source-label . "Источник")
  (:starter-decks-source-all . "Все колоды")
+ (:starter-decks-change-language . "Изменить")
+ (:starter-decks-filters-button . "Фильтры")
  (:starter-decks-search-placeholder . "Искать в библиотеке")
  (:starter-decks-apply-filters . "Применить фильтры")
  (:starter-decks-select-triplet-hint . "Выберите исходный и целевой язык, чтобы просматривать подходящие колоды.")

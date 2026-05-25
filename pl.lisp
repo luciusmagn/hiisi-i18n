@@ -600,6 +600,8 @@
  (:starter-decks-search-label . "Szukaj")
  (:starter-decks-source-label . "Źródło")
  (:starter-decks-source-all . "Wszystkie talie")
+ (:starter-decks-change-language . "Zmień")
+ (:starter-decks-filters-button . "Filtry")
  (:starter-decks-search-placeholder . "Szukaj w bibliotece")
  (:starter-decks-apply-filters . "Zastosuj filtry")
  (:starter-decks-select-triplet-hint . "Wybierz język źródłowy i docelowy, aby przeglądać pasujące talie.")
