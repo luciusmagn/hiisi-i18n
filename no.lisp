@@ -292,8 +292,8 @@
 
  ;; Dashboard
  (:dashboard-title . "Oversikt")
- (:dashboard-welcome-title . "Start med en ekte oversettelse")
- (:dashboard-welcome-subtitle . "Prøv først én setning, lagre deretter nyttige resultater og repeter dem når de forfaller.")
+ (:dashboard-welcome-title . "Oversett din første tekst")
+ (:dashboard-welcome-subtitle . "Oversett en nyttig frase, lagre den i en kortstokk og repeter den når det gjelder.")
  (:dashboard-take-quick-tour . "Ta en rask omvisning")
  (:dashboard-cards-due . "Kort for i dag")
  (:dashboard-total-cards . "Totalt antall kort")

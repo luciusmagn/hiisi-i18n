@@ -291,8 +291,8 @@
 
  ;; Dashboard
  (:dashboard-title . "Přehled")
- (:dashboard-welcome-title . "Začněte skutečným překladem")
- (:dashboard-welcome-subtitle . "Nejprve zkuste jednu větu, potom si užitečné výsledky uložte a opakujte je, až na ně přijde řada.")
+ (:dashboard-welcome-title . "Přeložte svůj první text")
+ (:dashboard-welcome-subtitle . "Přeložte užitečnou frázi, uložte si ji do balíčku a zopakujte si ji, až to bude potřeba.")
  (:dashboard-take-quick-tour . "Projít krátkou prohlídku")
  (:dashboard-cards-due . "Kartičky na dnes")
  (:dashboard-total-cards . "Celkem kartiček")

@@ -291,8 +291,8 @@
 
  ;; Dashboard
  (:dashboard-title . "Dashboard")
- (:dashboard-welcome-title . "Begin met een echte vertaling")
- (:dashboard-welcome-subtitle . "Probeer eerst één zin, sla daarna bruikbare resultaten op en herhaal ze wanneer ze aan de beurt zijn.")
+ (:dashboard-welcome-title . "Vertaal je eerste tekst")
+ (:dashboard-welcome-subtitle . "Vertaal een nuttige zin, sla die op in een deck en herhaal hem wanneer het ertoe doet.")
  (:dashboard-take-quick-tour . "Volg een korte rondleiding")
  (:dashboard-cards-due . "Kaarten voor vandaag")
  (:dashboard-total-cards . "Totaal kaarten")
