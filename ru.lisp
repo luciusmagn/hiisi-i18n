@@ -195,6 +195,9 @@
  ;; Translation page
  (:translate-title . "Перевод")
  (:landing-public-translate-title . "Попробуйте здесь")
+ (:landing-public-translate-cta-title . "Сохраните темп")
+ (:landing-public-translate-cta-body . "Сохраняйте переводы как учебные карточки и повторяйте их позже.")
+ (:landing-public-translate-cta-button . "Начать бесплатный пробный период и учиться дальше")
  (:translate-input-label . "Текст для перевода")
  (:translate-input-placeholder . "Введите текст для перевода...")
  (:translate-from . "Исходный язык:")

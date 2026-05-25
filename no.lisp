@@ -195,6 +195,9 @@
  ;; Translation page
  (:translate-title . "Oversett")
  (:landing-public-translate-title . "Prøv det her")
+ (:landing-public-translate-cta-title . "Fortsett flyten")
+ (:landing-public-translate-cta-body . "Lagre oversettelser som studiekort og repeter dem senere.")
+ (:landing-public-translate-cta-button . "Start gratis prøveperiode og lær videre")
  (:translate-input-label . "Tekst å oversette")
  (:translate-input-placeholder . "Skriv inn tekst å oversette...")
  (:translate-from . "Kildespråk:")

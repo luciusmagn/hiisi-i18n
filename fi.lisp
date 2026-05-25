@@ -194,6 +194,9 @@
  ;; Translation page
  (:translate-title . "Käännä")
  (:landing-public-translate-title . "Kokeile täällä")
+ (:landing-public-translate-cta-title . "Jatka tästä")
+ (:landing-public-translate-cta-body . "Tallenna käännöksiä opiskelukorteiksi ja kertaa niitä myöhemmin.")
+ (:landing-public-translate-cta-button . "Aloita maksuton kokeilu ja jatka oppimista")
  (:translate-input-label . "Käännettävä teksti")
  (:translate-input-placeholder . "Kirjoita käännettävä teksti...")
  (:translate-from . "Lähdekieli:")

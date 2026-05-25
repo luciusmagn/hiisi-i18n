@@ -194,6 +194,9 @@
  ;; Translation page
  (:translate-title . "Vertalen")
  (:landing-public-translate-title . "Probeer het hier")
+ (:landing-public-translate-cta-title . "Blijf in dit ritme")
+ (:landing-public-translate-cta-body . "Sla vertalingen op als studiekaarten en herhaal ze later.")
+ (:landing-public-translate-cta-button . "Start de gratis proefperiode en leer verder")
  (:translate-input-label . "Te vertalen tekst")
  (:translate-input-placeholder . "Voer tekst in om te vertalen...")
  (:translate-from . "Brontaal:")

@@ -194,6 +194,9 @@
  ;; Translation page
  (:translate-title . "Tõlgi")
  (:landing-public-translate-title . "Proovi siin")
+ (:landing-public-translate-cta-title . "Hoia hoogu")
+ (:landing-public-translate-cta-body . "Salvesta tõlked õpikaartidena ja korda neid hiljem.")
+ (:landing-public-translate-cta-button . "Alusta tasuta prooviperioodi ja õpi edasi")
  (:translate-input-label . "Tõlgitav tekst")
  (:translate-input-placeholder . "Sisesta tõlgitav tekst...")
  (:translate-from . "Lähtkeel:")

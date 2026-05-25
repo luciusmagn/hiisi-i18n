@@ -195,6 +195,9 @@
  ;; Translation page
  (:translate-title . "Übersetzen")
  (:landing-public-translate-title . "Probier es hier aus")
+ (:landing-public-translate-cta-title . "Bleib dran")
+ (:landing-public-translate-cta-body . "Speichere Übersetzungen als Lernkarten und wiederhole sie später.")
+ (:landing-public-translate-cta-button . "Kostenlose Testphase starten und weiterlernen")
  (:translate-input-label . "Text zum Übersetzen")
  (:translate-input-placeholder . "Text zum Übersetzen eingeben...")
  (:translate-from . "Ausgangssprache:")

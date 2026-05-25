@@ -195,6 +195,9 @@
  ;; Translation page
  (:translate-title . "Translate")
  (:landing-public-translate-title . "Try it here")
+ (:landing-public-translate-cta-title . "Keep this momentum")
+ (:landing-public-translate-cta-body . "Save translations as study cards and review them later.")
+ (:landing-public-translate-cta-button . "Start free trial to keep learning")
  (:translate-input-label . "Text to translate")
  (:translate-input-placeholder . "Enter text to translate...")
  (:translate-from . "Source language:")

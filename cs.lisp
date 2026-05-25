@@ -194,6 +194,9 @@
  ;; Translation page
  (:translate-title . "Překlad")
  (:landing-public-translate-title . "Vyzkoušejte si to tady")
+ (:landing-public-translate-cta-title . "Udržte si tempo")
+ (:landing-public-translate-cta-body . "Ukládejte překlady jako studijní kartičky a později si je opakujte.")
+ (:landing-public-translate-cta-button . "Začít bezplatnou zkušební dobu a učit se dál")
  (:translate-input-label . "Zadejte text k překladu")
  (:translate-input-placeholder . "Napište něco...")
  (:translate-from . "Původní jazyk:")
