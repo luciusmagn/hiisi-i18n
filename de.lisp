@@ -29,6 +29,8 @@
  (:app-title . "Hiisi - Sprachenlernen")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: Sprachlern-App mit Grammatik und Karteikarten")
+ (:landing-meta-description . "Hiisi ist eine Sprachlern-App. Jeder Satz, den Sie übersetzen, wird zu einer Karteikarte mit integrierter Grammatik, geplant mit SM-2, dem Anki-Algorithmus. 15 Sprachen.")
  (:landing-learn-more . "Mehr erfahren")
  (:landing-how-it-works . "So funktioniert's")
  (:landing-start-trial . "Kostenlos testen")

@@ -28,6 +28,8 @@
  (:app-title . "Hiisi - Kielten oppiminen")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: kieltenoppimissovellus kieliopilla ja muistikorteilla")
+ (:landing-meta-description . "Hiisi on kieltenoppimissovellus. Jokaisesta kääntämästäsi lauseesta tulee muistikortti, jossa on sisäänrakennettu kielioppi ja joka ajastetaan SM-2:lla, Ankin algoritmilla. 15 kieltä.")
  (:landing-learn-more . "Lue lisää")
  (:landing-how-it-works . "Näin se toimii")
  (:landing-start-trial . "Aloita ilmainen kokeilu")

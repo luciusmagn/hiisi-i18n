@@ -29,6 +29,8 @@
  (:app-title . "Hiisi - Aprendizagem de línguas")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: aplicação de aprendizagem de línguas com gramática e cartões")
+ (:landing-meta-description . "Hiisi é uma aplicação de aprendizagem de línguas. Cada frase que traduz torna-se um cartão com gramática integrada, agendado pelo SM-2, o algoritmo do Anki. 15 línguas.")
  (:landing-learn-more . "Saber mais")
  (:landing-how-it-works . "Como funciona")
  (:landing-start-trial . "Iniciar teste gratuito")

@@ -28,6 +28,8 @@
  (:app-title . "Hiisi - Språkinlärning")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: språkinlärningsapp med grammatik och flashcards")
+ (:landing-meta-description . "Hiisi är en språkinlärningsapp. Varje mening du översätter blir ett flashcard med inbyggd grammatik, schemalagt med SM-2, Anki-algoritmen. 15 språk.")
  (:landing-learn-more . "Läs mer")
  (:landing-how-it-works . "Så fungerar det")
  (:landing-start-trial . "Starta gratis provperiod")

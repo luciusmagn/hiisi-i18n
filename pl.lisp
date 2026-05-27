@@ -29,6 +29,8 @@
  (:app-title . "Hiisi - Nauka języków")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: aplikacja do nauki języków z gramatyką i fiszkami")
+ (:landing-meta-description . "Hiisi to aplikacja do nauki języków. Każde przetłumaczone zdanie staje się fiszką z wbudowaną gramatyką, zaplanowaną przez SM-2, algorytm Anki. 15 języków.")
  (:landing-learn-more . "Dowiedz się więcej")
  (:landing-how-it-works . "Jak to działa")
  (:landing-start-trial . "Rozpocznij bezpłatny okres próbny")

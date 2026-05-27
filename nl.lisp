@@ -28,6 +28,8 @@
  (:app-title . "Hiisi - Talen leren")
 
  ;; Landing page
+ (:landing-meta-title . "Hiisi: app om talen te leren met grammatica en flashcards")
+ (:landing-meta-description . "Hiisi is een app om talen te leren. Elke zin die je vertaalt, wordt een flashcard met ingebouwde grammatica, gepland door SM-2, het Anki-algoritme. 15 talen.")
  (:landing-learn-more . "Meer informatie")
  (:landing-how-it-works . "Hoe het werkt")
  (:landing-start-trial . "Start gratis proefperiode")
