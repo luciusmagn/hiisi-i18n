@@ -690,6 +690,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Jedes Wort erklärt. Jede Wiederholung geplant. Fünfzehn Sprachen.")
+ (:landing-hero-headline-v1 . "Übersetzen Sie Sätze einfach und lesen Sie die Grammatik in Ihrer eigenen Sprache.")
+ (:landing-hero-headline-v2 . "Hiisi sorgt dafür, dass Sie nicht jeden Satz vergessen, den Sie übersetzen.")
+ (:landing-hero-headline-v3 . "Machen Sie die Sätze, die Sie übersetzen, zu Wortschatz, den Sie verwenden können.")
  (:landing-hero-subheadline . "Hiisi ist der Übersetzer, der Ihnen Grammatik beim Lesen beibringt, und die Karteikarten-App, die sich aus dem aufbaut, was Sie tatsächlich übersetzen.")
  (:landing-hero-trust-line . "14 Tage kostenlos. Keine Karte erforderlich.")
  (:landing-credibility-languages . "15 Sprachen")

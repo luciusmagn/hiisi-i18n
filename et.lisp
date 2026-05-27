@@ -689,6 +689,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Iga sõna seletatud. Iga kordamine planeeritud. Viisteist keelt.")
+ (:landing-hero-headline-v1 . "Tõlgi lauseid hõlpsalt ja loe grammatikat oma keeles.")
+ (:landing-hero-headline-v2 . "Hiisi hoolitseb selle eest, et sa ei unustaks ühtegi tõlgitud lauset.")
+ (:landing-hero-headline-v3 . "Muuda tõlgitud laused sõnavaraks, mida oskad kasutada.")
  (:landing-hero-subheadline . "Hiisi on tõlkija, mis õpetab sulle grammatikat lugemise ajal, ja õppekaartide rakendus, mis ehitab end üles sellest, mida sa tegelikult tõlgid.")
  (:landing-hero-trust-line . "14 päeva tasuta. Kaarti pole vaja.")
  (:landing-credibility-languages . "15 keelt")

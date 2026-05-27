@@ -691,6 +691,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Chaque mot expliqué. Chaque révision planifiée. Quinze langues.")
+ (:landing-hero-headline-v1 . "Traduisez facilement des phrases et lisez la grammaire dans votre propre langue.")
+ (:landing-hero-headline-v2 . "Hiisi veille à ce que vous n'oubliiez pas chaque phrase que vous traduisez.")
+ (:landing-hero-headline-v3 . "Transformez les phrases que vous traduisez en vocabulaire que vous pouvez utiliser.")
  (:landing-hero-subheadline . "Hiisi est le traducteur qui vous apprend la grammaire pendant que vous lisez, et l'application de cartes qui se construit à partir de ce que vous traduisez vraiment.")
  (:landing-hero-trust-line . "14 jours gratuits. Aucune carte requise.")
  (:landing-credibility-languages . "15 langues")

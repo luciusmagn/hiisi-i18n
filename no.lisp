@@ -690,6 +690,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Hvert ord forklart. Hver repetisjon planlagt. Femten språk.")
+ (:landing-hero-headline-v1 . "Oversett setninger enkelt og les grammatikken på ditt eget språk.")
+ (:landing-hero-headline-v2 . "Hiisi sørger for at du ikke glemmer hver setning du oversetter.")
+ (:landing-hero-headline-v3 . "Gjør setningene du oversetter, til ordforråd du kan bruke.")
  (:landing-hero-subheadline . "Hiisi er oversetteren som lærer deg grammatikk mens du leser, og studiekort-appen som bygger seg selv opp av det du faktisk oversetter.")
  (:landing-hero-trust-line . "14 dager gratis. Ingen kort kreves.")
  (:landing-credibility-languages . "15 språk")

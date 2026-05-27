@@ -689,6 +689,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Jokainen sana selitettynä. Jokainen kertaus ajastettuna. Viisitoista kieltä.")
+ (:landing-hero-headline-v1 . "Käännä lauseita helposti ja lue kielioppi omalla kielelläsi.")
+ (:landing-hero-headline-v2 . "Hiisi varmistaa, ettet unohda jokaista kääntämääsi lausetta.")
+ (:landing-hero-headline-v3 . "Muuta kääntämäsi lauseet sanastoksi, jota osaat käyttää.")
  (:landing-hero-subheadline . "Hiisi on kääntäjä, joka opettaa sinulle kielioppia lukiessasi, ja muistikorttisovellus, joka rakentuu siitä, mitä oikeasti käännät.")
  (:landing-hero-trust-line . "14 päivää ilmaiseksi. Maksukorttia ei tarvita.")
  (:landing-credibility-languages . "15 kieltä")

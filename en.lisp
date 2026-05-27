@@ -691,6 +691,9 @@
 
  ;; Landing page (redesign)
  (:landing-hero-headline . "Every word explained. Every review scheduled. Fifteen languages.")
+ (:landing-hero-headline-v1 . "Easily translate sentences and read the grammar in your own language.")
+ (:landing-hero-headline-v2 . "Hiisi makes sure you don’t forget every sentence you translate.")
+ (:landing-hero-headline-v3 . "Turn the sentences you translate into vocabulary you can use.")
  (:landing-hero-subheadline . "Hiisi is the translator that teaches you grammar as you read, and the flashcard app that builds itself from what you actually translate.")
  (:landing-hero-trust-line . "14 days free. No card required.")
  (:landing-credibility-languages . "15 languages")
