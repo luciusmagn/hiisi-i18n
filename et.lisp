@@ -32,7 +32,7 @@
  (:landing-meta-description . "Hiisi on keeleõppe rakendus. Iga lause, mille tõlgid, muutub õppekaardiks koos sisseehitatud grammatikaga, ajastatuna SM-2 ehk Anki algoritmi järgi. 15 keelt.")
  (:landing-learn-more . "Loe lähemalt")
  (:landing-how-it-works . "Kuidas see töötab")
- (:landing-start-trial . "Alusta tasuta prooviperioodi")
+ (:landing-start-trial . "Alusta Hiisi kasutamist")
  (:landing-best-value . "Parim pakkumine")
 
  ;; Auth pages

@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi ist eine Sprachlern-App. Jeder Satz, den Sie übersetzen, wird zu einer Karteikarte mit integrierter Grammatik, geplant mit SM-2, dem Anki-Algorithmus. 15 Sprachen.")
  (:landing-learn-more . "Mehr erfahren")
  (:landing-how-it-works . "So funktioniert's")
- (:landing-start-trial . "Kostenlos testen")
+ (:landing-start-trial . "Mit Hiisi loslegen")
  (:landing-best-value . "Bestes Angebot")
 
  ;; Auth pages

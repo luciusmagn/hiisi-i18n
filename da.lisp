@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi er en sproglæringsapp. Hver sætning, du oversætter, bliver til et flashkort med indbygget grammatik, planlagt med SM-2, Anki-algoritmen. 15 sprog.")
  (:landing-learn-more . "Læs mere")
  (:landing-how-it-works . "Sådan fungerer det")
- (:landing-start-trial . "Start gratis prøveperiode")
+ (:landing-start-trial . "Kom i gang med Hiisi")
  (:landing-best-value . "Bedste værdi")
 
  ;; Auth pages

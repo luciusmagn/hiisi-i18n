@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi to aplikacja do nauki języków. Każde przetłumaczone zdanie staje się fiszką z wbudowaną gramatyką, zaplanowaną przez SM-2, algorytm Anki. 15 języków.")
  (:landing-learn-more . "Dowiedz się więcej")
  (:landing-how-it-works . "Jak to działa")
- (:landing-start-trial . "Rozpocznij bezpłatny okres próbny")
+ (:landing-start-trial . "Zacznij korzystać z Hiisi")
  (:landing-best-value . "Najlepsza oferta")
 
  ;; Auth pages

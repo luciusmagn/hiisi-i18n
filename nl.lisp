@@ -32,7 +32,7 @@
  (:landing-meta-description . "Hiisi is een app om talen te leren. Elke zin die je vertaalt, wordt een flashcard met ingebouwde grammatica, gepland door SM-2, het Anki-algoritme. 15 talen.")
  (:landing-learn-more . "Meer informatie")
  (:landing-how-it-works . "Hoe het werkt")
- (:landing-start-trial . "Start gratis proefperiode")
+ (:landing-start-trial . "Aan de slag met Hiisi")
  (:landing-best-value . "Beste waarde")
 
  ;; Auth pages

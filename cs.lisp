@@ -32,7 +32,7 @@
  (:landing-meta-description . "Hiisi je aplikace pro studium jazyků. Každá věta, kterou přeložíte, se změní na kartičku s vestavěnou gramatikou, plánovanou algoritmem SM-2, algoritmem Anki. 15 jazyků.")
  (:landing-learn-more . "Zjistit více")
  (:landing-how-it-works . "Jak to funguje")
- (:landing-start-trial . "Vyzkoušet zdarma")
+ (:landing-start-trial . "Začít s Hiisi")
  (:landing-best-value . "Nejlepší hodnota")
 
  ;; Auth pages

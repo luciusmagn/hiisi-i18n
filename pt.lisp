@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi é uma aplicação de aprendizagem de línguas. Cada frase que traduz torna-se um cartão com gramática integrada, agendado pelo SM-2, o algoritmo do Anki. 15 línguas.")
  (:landing-learn-more . "Saber mais")
  (:landing-how-it-works . "Como funciona")
- (:landing-start-trial . "Iniciar teste gratuito")
+ (:landing-start-trial . "Começar com o Hiisi")
  (:landing-best-value . "Melhor valor")
 
  ;; Auth pages

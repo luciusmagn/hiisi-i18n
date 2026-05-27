@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi is a language learning app. Every sentence you translate becomes a flashcard with grammar built in, scheduled by SM-2, the Anki algorithm. 15 languages.")
  (:landing-learn-more . "Learn More")
  (:landing-how-it-works . "How It Works")
- (:landing-start-trial . "Start Free Trial")
+ (:landing-start-trial . "Get started with Hiisi")
  (:landing-best-value . "Best Value")
 
  ;; Auth pages

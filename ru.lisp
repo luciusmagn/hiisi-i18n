@@ -33,7 +33,7 @@
  (:landing-meta-description . "Hiisi — приложение для изучения языков. Каждое переведённое вами предложение становится карточкой со встроенной грамматикой, запланированной по SM-2, алгоритму Anki. 15 языков.")
  (:landing-learn-more . "Узнать больше")
  (:landing-how-it-works . "Как это работает")
- (:landing-start-trial . "Начать бесплатно")
+ (:landing-start-trial . "Начать работу с Hiisi")
  (:landing-best-value . "Лучшая цена")
 
  ;; Auth pages
