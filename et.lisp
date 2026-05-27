@@ -768,8 +768,8 @@
  (:landing-faq-title . "Korduma kippuvad küsimused")
  (:landing-faq-trial-cap-q . "Mitu tõlget saan prooviperioodil?")
  (:landing-faq-trial-cap-a . "Saad 200 tõlget 14-päevase prooviperioodi jooksul. Pärast tellimist saad 600 kuus.")
- (:landing-final-cta-title . "Sinu esimene lause võtab viis sekundit.")
- (:landing-final-cta-subtitle . "Kleebi midagi soome, tšehhi, poola või ükskõik millises kaheteistkümnes teises keeles. Vaata, mis Hiisi sellega teeb. Neliteist päeva tasuta.")
+ (:landing-final-cta-title . "Alusta Hiisi kasutamist juba täna")
+ (:landing-final-cta-subtitle . "Hiisi annab sulle tähenduse, grammatika, häälduse ja kaardi, mis tuleb õigel hetkel tagasi. Sellest hetkest on lause sinu. Viisteist keelt on valmis, kui sina oled.")
 
  ;; Trial status (in-app)
  (:trial-status . "Tasuta prooviperiood")

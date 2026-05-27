@@ -769,8 +769,8 @@
  (:landing-faq-title . "Domande frequenti")
  (:landing-faq-trial-cap-q . "Quante traduzioni ricevo durante la prova?")
  (:landing-faq-trial-cap-a . "Ricevi 200 traduzioni durante la prova di 14 giorni. Dopo l'abbonamento, ricevi 600 al mese.")
- (:landing-final-cta-title . "La tua prima frase richiede cinque secondi.")
- (:landing-final-cta-subtitle . "Incolla qualsiasi cosa in finlandese, ceco, polacco o in una qualsiasi delle altre dodici lingue. Guarda cosa ne fa Hiisi. Quattordici giorni gratis.")
+ (:landing-final-cta-title . "Inizia a usare Hiisi oggi")
+ (:landing-final-cta-subtitle . "Hiisi ti dà il significato, la grammatica, la pronuncia e una scheda che torna quando ne hai bisogno. Da quel momento, la frase è tua. Quindici lingue sono pronte quando lo sei tu.")
 
  ;; Trial status (in-app)
  (:trial-status . "Prova gratuita")

@@ -769,8 +769,8 @@
  (:landing-faq-title . "Ofte stilte spørsmål")
  (:landing-faq-trial-cap-q . "Hvor mange oversettelser får jeg i prøveperioden?")
  (:landing-faq-trial-cap-a . "Du får 200 oversettelser i løpet av 14 dagers prøveperiode. Etter abonnement får du 600 per måned.")
- (:landing-final-cta-title . "Din første setning tar fem sekunder.")
- (:landing-final-cta-subtitle . "Lim inn hva som helst på finsk, tsjekkisk, polsk eller et av de andre tolv språkene. Se hva Hiisi gjør med det. Fjorten dager gratis.")
+ (:landing-final-cta-title . "Begynn å bruke Hiisi i dag")
+ (:landing-final-cta-subtitle . "Hiisi gir deg betydningen, grammatikken, uttalen og et kort som kommer tilbake når du trenger det. Fra da av er setningen din. Femten språk er klare når du er det.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis prøveperiode")

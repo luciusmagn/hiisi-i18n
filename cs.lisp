@@ -768,8 +768,8 @@
  (:landing-faq-title . "Často kladené otázky")
  (:landing-faq-trial-cap-q . "Kolik překladů dostanu během zkušební doby?")
  (:landing-faq-trial-cap-a . "Během 14denní zkušební doby můžete přeložit až 200 textů. Po předplacení získáte 600 měsíčně.")
- (:landing-final-cta-title . "První věta zabere pět sekund.")
- (:landing-final-cta-subtitle . "Vložte cokoli ve finštině, češtině, polštině nebo v kterémkoli z dvanácti dalších jazyků. Uvidíte, co s tím Hiisi udělá. Čtrnáct dní zdarma.")
+ (:landing-final-cta-title . "Začněte používat Hiisi ještě dnes")
+ (:landing-final-cta-subtitle . "Hiisi vám dá význam, gramatiku, výslovnost a kartičku, která se vrátí, až ji budete potřebovat. Od té chvíle je věta vaše. Patnáct jazyků je připraveno, až budete připraveni.")
 
  ;; Trial status (in-app)
  (:trial-status . "Zkušební doba")

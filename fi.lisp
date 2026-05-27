@@ -768,8 +768,8 @@
  (:landing-faq-title . "Usein kysytyt kysymykset")
  (:landing-faq-trial-cap-q . "Kuinka monta käännöstä saan kokeilujakson aikana?")
  (:landing-faq-trial-cap-a . "Saat 200 käännöstä 14 päivän kokeilujakson aikana. Tilauksen jälkeen saat 600 kuukaudessa.")
- (:landing-final-cta-title . "Ensimmäinen lauseesi vie viisi sekuntia.")
- (:landing-final-cta-subtitle . "Liitä mitä tahansa suomeksi, tšekiksi, puolaksi tai millä tahansa kahdestatoista muusta kielestä. Katso, mitä Hiisi tekee sille. Neljätoista päivää ilmaiseksi.")
+ (:landing-final-cta-title . "Aloita Hiisin käyttö tänään")
+ (:landing-final-cta-subtitle . "Hiisi antaa merkityksen, kieliopin, ääntämisen ja kortin, joka palaa luoksesi oikealla hetkellä. Siitä eteenpäin lause on sinun. Viisitoista kieltä on valmiina, kun sinä olet.")
 
  ;; Trial status (in-app)
  (:trial-status . "Ilmainen kokeilu")

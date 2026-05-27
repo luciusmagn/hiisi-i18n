@@ -768,8 +768,8 @@
  (:landing-faq-title . "Veelgestelde vragen")
  (:landing-faq-trial-cap-q . "Hoeveel vertalingen krijg ik tijdens de proefperiode?")
  (:landing-faq-trial-cap-a . "Je krijgt 200 vertalingen tijdens je 14-daagse proefperiode. Na het abonnement krijg je 600 per maand.")
- (:landing-final-cta-title . "Je eerste zin kost vijf seconden.")
- (:landing-final-cta-subtitle . "Plak iets in het Fins, Tsjechisch, Pools of een van de andere twaalf talen. Zie wat Hiisi ermee doet. Veertien dagen gratis.")
+ (:landing-final-cta-title . "Begin vandaag met Hiisi")
+ (:landing-final-cta-subtitle . "Hiisi geeft je de betekenis, grammatica, uitspraak en een kaart die terugkomt wanneer je die nodig hebt. Vanaf dat moment is de zin van jou. Vijftien talen staan klaar wanneer jij dat bent.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis proefperiode")

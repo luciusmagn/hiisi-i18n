@@ -768,8 +768,8 @@
  (:landing-faq-title . "Vanliga frågor")
  (:landing-faq-trial-cap-q . "Hur många översättningar får jag under provperioden?")
  (:landing-faq-trial-cap-a . "Du får 200 översättningar under din 14-dagars provperiod. Efter prenumeration får du 600 per månad.")
- (:landing-final-cta-title . "Din första mening tar fem sekunder.")
- (:landing-final-cta-subtitle . "Klistra in vad som helst på finska, tjeckiska, polska eller något av de andra tolv språken. Se vad Hiisi gör med det. Fjorton dagar gratis.")
+ (:landing-final-cta-title . "Börja använda Hiisi i dag")
+ (:landing-final-cta-subtitle . "Hiisi ger dig betydelsen, grammatiken, uttalet och ett kort som kommer tillbaka när du behöver det. Från den stunden är meningen din. Femton språk är redo när du är det.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis provperiod")
