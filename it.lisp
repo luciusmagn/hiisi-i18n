@@ -693,7 +693,7 @@
  (:landing-hero-headline-v1 . "Traduci facilmente le frasi e leggi la grammatica nella tua lingua.")
  (:landing-hero-headline-v2 . "Hiisi fa in modo che tu non dimentichi ogni frase che traduci.")
  (:landing-hero-headline-v3 . "Trasforma le frasi che traduci in vocabolario che sai usare.")
- (:landing-hero-subheadline . "Hiisi è il traduttore che ti insegna la grammatica mentre leggi, e l'app di flashcard che si costruisce da quello che traduci davvero.")
+ (:landing-hero-subheadline . "Salva qualsiasi frase nei segnalibri e Hiisi ti dà la traduzione, la grammatica, la pronuncia e una flashcard che ritorna per il ripasso.")
  (:landing-hero-trust-line . "14 giorni gratis. Nessuna carta richiesta.")
  (:landing-credibility-languages . "15 lingue")
  (:landing-credibility-ai . "Ogni parola spiegata")

@@ -692,7 +692,7 @@
  (:landing-hero-headline-v1 . "Vertaal zinnen eenvoudig en lees de grammatica in je eigen taal.")
  (:landing-hero-headline-v2 . "Hiisi zorgt ervoor dat je niet elke zin vergeet die je vertaalt.")
  (:landing-hero-headline-v3 . "Maak van de zinnen die je vertaalt woordenschat die je kunt gebruiken.")
- (:landing-hero-subheadline . "Hiisi is de vertaler die je grammatica leert tijdens het lezen, en de flashcard-app die zichzelf opbouwt uit wat je daadwerkelijk vertaalt.")
+ (:landing-hero-subheadline . "Maak van een willekeurige zin een bladwijzer en Hiisi geeft je de vertaling, de grammatica, de uitspraak en een flashcard die terugkomt om te herhalen.")
  (:landing-hero-trust-line . "14 dagen gratis. Geen kaart nodig.")
  (:landing-credibility-languages . "15 talen")
  (:landing-credibility-ai . "Elk woord uitgelegd")

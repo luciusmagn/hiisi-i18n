@@ -692,7 +692,7 @@
  (:landing-hero-headline-v1 . "Snadno překládejte věty a čtěte gramatiku ve svém vlastním jazyce.")
  (:landing-hero-headline-v2 . "Hiisi zajistí, že nezapomenete každou větu, kterou přeložíte.")
  (:landing-hero-headline-v3 . "Proměňte věty, které překládáte, ve slovní zásobu, kterou umíte použít.")
- (:landing-hero-subheadline . "Hiisi je překladač, který vás učí gramatiku během čtení, a aplikace pro kartičky, která se buduje sama z toho, co skutečně překládáte.")
+ (:landing-hero-subheadline . "Uložte si libovolnou větu a Hiisi vám dá překlad, gramatiku, výslovnost a kartičku, která se vrátí k opakování.")
  (:landing-hero-trust-line . "14 dní zdarma. Karta není potřeba.")
  (:landing-credibility-languages . "15 jazyků")
  (:landing-credibility-ai . "Každé slovo vysvětlené")

@@ -693,7 +693,7 @@
  (:landing-hero-headline-v1 . "Traduce frases fácilmente y lee la gramática en tu propio idioma.")
  (:landing-hero-headline-v2 . "Hiisi se asegura de que no olvides cada frase que traduces.")
  (:landing-hero-headline-v3 . "Convierte las frases que traduces en vocabulario que puedes usar.")
- (:landing-hero-subheadline . "Hiisi es el traductor que te enseña gramática mientras lees, y la aplicación de tarjetas que se construye a partir de lo que realmente traduces.")
+ (:landing-hero-subheadline . "Marca cualquier frase y Hiisi te da la traducción, la gramática, la pronunciación y una tarjeta que vuelve para repasar.")
  (:landing-hero-trust-line . "14 días gratis. Sin tarjeta.")
  (:landing-credibility-languages . "15 idiomas")
  (:landing-credibility-ai . "Cada palabra explicada")
