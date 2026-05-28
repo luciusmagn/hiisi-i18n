@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Alle (Automatisk gjenkjenning)")
  (:translate-empty-state . "Oversett et ord eller en frase, så ser du resultatet, grammatikkgjennomgangen og studiehandlingene her.")
  (:translate-select-deck-placeholder . "Velg kortstokk (valgfritt)")
+ (:translate-result-title . "Oversettelsesresultat")
  (:translate-save-destination-label . "Lagre til")
  (:translate-save-to-my-cards . "Mine kort (standard)")
  (:translate-save-to-deck . "Lagre i kortstokk")

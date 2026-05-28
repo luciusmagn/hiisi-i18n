@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Alle (Automatisk)")
  (:translate-empty-state . "Oversæt et ord eller en frase, så ser du resultatet, grammatikgennemgangen og studiehandlingerne her.")
  (:translate-select-deck-placeholder . "Vælg kortbunke (valgfrit)")
+ (:translate-result-title . "Oversættelsesresultat")
  (:translate-save-destination-label . "Gem til")
  (:translate-save-to-my-cards . "Mine kort (standard)")
  (:translate-save-to-deck . "Gem i kortsæt")

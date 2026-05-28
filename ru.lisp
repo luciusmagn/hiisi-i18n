@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Любой (Автоопределение)")
  (:translate-empty-state . "Переведите слово или фразу, и здесь появятся результат, грамматический разбор и учебные действия.")
  (:translate-select-deck-placeholder . "Выберите колоду (необязательно)")
+ (:translate-result-title . "Результат перевода")
  (:translate-save-destination-label . "Куда сохранить")
  (:translate-save-to-my-cards . "Мои карточки (по умолчанию)")
  (:translate-save-to-deck . "Сохранить в колоду")

@@ -207,6 +207,7 @@
  (:translate-auto-detect . "Elke (Automatisch detecteren)")
  (:translate-empty-state . "Vertaal een woord of zin en hier zie je het resultaat, de grammaticale uitleg en studieacties.")
  (:translate-select-deck-placeholder . "Selecteer stapel (optioneel)")
+ (:translate-result-title . "Vertaalresultaat")
  (:translate-save-destination-label . "Opslaglocatie")
  (:translate-save-to-my-cards . "Mijn kaarten (standaard)")
  (:translate-save-to-deck . "Opslaan in deck")

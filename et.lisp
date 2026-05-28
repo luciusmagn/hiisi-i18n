@@ -207,6 +207,7 @@
  (:translate-auto-detect . "Suvaline (automaattuvastus)")
  (:translate-empty-state . "Tõlgi sõna või fraas ning siin näed tulemust, grammatika lahtikirjutust ja õppetoiminguid.")
  (:translate-select-deck-placeholder . "Vali kaardipakk (valikuline)")
+ (:translate-result-title . "Tõlke tulemus")
  (:translate-save-destination-label . "Salvestuskoht")
  (:translate-save-to-my-cards . "Minu kaardid (vaikimisi)")
  (:translate-save-to-deck . "Salvesta pakki")

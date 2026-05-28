@@ -207,6 +207,7 @@
  (:translate-auto-detect . "Valfritt (Identifiera automatiskt)")
  (:translate-empty-state . "Översätt ett ord eller en fras så ser du resultatet, grammatikgenomgången och studieåtgärderna här.")
  (:translate-select-deck-placeholder . "Välj kortlek (valfritt)")
+ (:translate-result-title . "Översättningsresultat")
  (:translate-save-destination-label . "Spara till")
  (:translate-save-to-my-cards . "Mina kort (standard)")
  (:translate-save-to-deck . "Spara i kortlek")

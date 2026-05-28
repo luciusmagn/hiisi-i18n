@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Qualquer (Detectar automaticamente)")
  (:translate-empty-state . "Traduza uma palavra ou frase e verá aqui o resultado, a análise gramatical e as ações de estudo.")
  (:translate-select-deck-placeholder . "Selecionar baralho (opcional)")
+ (:translate-result-title . "Resultado da tradução")
  (:translate-save-destination-label . "Destino ao guardar")
  (:translate-save-to-my-cards . "Os meus cartões (predefinido)")
  (:translate-save-to-deck . "Guardar no baralho")

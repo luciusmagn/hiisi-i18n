@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Any (Auto-detect)")
  (:translate-empty-state . "Translate a word or phrase to see the result, grammar breakdown, and study actions here.")
  (:translate-select-deck-placeholder . "Select deck (optional)")
+ (:translate-result-title . "Translation Result")
  (:translate-save-destination-label . "Save destination")
  (:translate-save-to-my-cards . "My Cards (default)")
  (:translate-save-to-deck . "Save to deck")

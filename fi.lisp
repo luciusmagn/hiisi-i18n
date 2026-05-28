@@ -207,6 +207,7 @@
  (:translate-auto-detect . "Mikä tahansa (tunnista automaattisesti)")
  (:translate-empty-state . "Käännä sana tai fraasi, niin näet täällä tuloksen, kielioppierittelyn ja opiskelutoiminnot.")
  (:translate-select-deck-placeholder . "Valitse pakka (valinnainen)")
+ (:translate-result-title . "Käännöstulos")
  (:translate-save-destination-label . "Tallennuskohde")
  (:translate-save-to-my-cards . "Omat kortit (oletus)")
  (:translate-save-to-deck . "Tallenna pakkaan")

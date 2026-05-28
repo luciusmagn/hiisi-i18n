@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Dowolny (Autowykrywanie)")
  (:translate-empty-state . "Przetłumacz słowo lub frazę, a tutaj zobaczysz wynik, omówienie gramatyki i działania do nauki.")
  (:translate-select-deck-placeholder . "Wybierz talię (opcjonalnie)")
+ (:translate-result-title . "Wynik tłumaczenia")
  (:translate-save-destination-label . "Miejsce zapisu")
  (:translate-save-to-my-cards . "Moje fiszki (domyślnie)")
  (:translate-save-to-deck . "Zapisz w talii")

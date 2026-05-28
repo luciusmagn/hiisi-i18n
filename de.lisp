@@ -208,6 +208,7 @@
  (:translate-auto-detect . "Beliebig (Automatisch erkennen)")
  (:translate-empty-state . "Übersetze ein Wort oder eine Phrase, dann siehst du hier das Ergebnis, die Grammatikaufschlüsselung und Lernaktionen.")
  (:translate-select-deck-placeholder . "Deck auswählen (optional)")
+ (:translate-result-title . "Übersetzungsergebnis")
  (:translate-save-destination-label . "Speicherziel")
  (:translate-save-to-my-cards . "Meine Karten (Standard)")
  (:translate-save-to-deck . "Im Stapel speichern")

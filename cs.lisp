@@ -207,6 +207,7 @@
  (:translate-auto-detect . "Jakýkoliv (Autodetekce)")
  (:translate-empty-state . "Přeložte slovo nebo frázi a tady uvidíte výsledek, gramatický rozbor i studijní akce.")
  (:translate-select-deck-placeholder . "Vyberte balíček (volitelné)")
+ (:translate-result-title . "Výsledek překladu")
  (:translate-save-destination-label . "Cíl uložení")
  (:translate-save-to-my-cards . "Moje kartičky (výchozí)")
  (:translate-save-to-deck . "Uložit do balíčku")
