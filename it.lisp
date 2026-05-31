@@ -684,6 +684,7 @@
  (:flashcards-col-original . "Originale")
  (:flashcards-col-translated . "Traduzione")
  (:flashcards-no-cards . "Nessuna carta ancora. Inizia a tradurre per crearne alcune!")
+ (:flashcards-no-filtered-cards . "Nessuna carta corrisponde ancora a questi filtri. Inizia a tradurre per crearne alcune!")
  (:flashcards-image-label . "Immagine")
  (:flashcards-image-upload . "Carica immagine")
  (:flashcards-image-replace . "Sostituisci immagine")

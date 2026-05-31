@@ -684,6 +684,7 @@
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Übersetzung")
  (:flashcards-no-cards . "Noch keine Karteikarten. Beginne mit Übersetzen, um welche zu erstellen!")
+ (:flashcards-no-filtered-cards . "Noch keine Karteikarten entsprechen diesen Filtern. Beginne mit Übersetzen, um welche zu erstellen!")
  (:flashcards-image-label . "Bild")
  (:flashcards-image-upload . "Bild hochladen")
  (:flashcards-image-replace . "Bild ersetzen")

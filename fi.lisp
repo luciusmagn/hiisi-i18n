@@ -683,6 +683,7 @@
  (:flashcards-col-original . "Alkuperäinen")
  (:flashcards-col-translated . "Käännös")
  (:flashcards-no-cards . "Ei vielä kortteja. Aloita kääntäminen luodaksesi niitä!")
+ (:flashcards-no-filtered-cards . "Mikään kortti ei vielä vastaa näitä suodattimia. Aloita kääntäminen luodaksesi niitä!")
  (:flashcards-image-label . "Kuva")
  (:flashcards-image-upload . "Lähetä kuva")
  (:flashcards-image-replace . "Vaihda kuva")

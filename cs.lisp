@@ -683,6 +683,7 @@
  (:flashcards-col-original . "Originál")
  (:flashcards-col-translated . "Překlad")
  (:flashcards-no-cards . "Zatím žádné kartičky. Začněte překládat a vytvořte si nějaké!")
+ (:flashcards-no-filtered-cards . "Žádné kartičky zatím neodpovídají těmto filtrům. Začněte překládat a vytvořte si nějaké!")
  (:flashcards-image-label . "Obrázek")
  (:flashcards-image-upload . "Nahrát obrázek")
  (:flashcards-image-replace . "Nahradit obrázek")

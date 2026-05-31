@@ -684,6 +684,7 @@
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Oversættelse")
  (:flashcards-no-cards . "Ingen kort endnu. Begynd at oversætte for at oprette nogle!")
+ (:flashcards-no-filtered-cards . "Ingen kort matcher disse filtre endnu. Begynd at oversætte for at oprette nogle!")
  (:flashcards-image-label . "Billede")
  (:flashcards-image-upload . "Upload billede")
  (:flashcards-image-replace . "Erstat billede")

@@ -683,6 +683,7 @@
  (:flashcards-col-original . "Originaal")
  (:flashcards-col-translated . "Tõlge")
  (:flashcards-no-cards . "Kaarte veel pole. Alusta tõlkimist, et neid luua!")
+ (:flashcards-no-filtered-cards . "Ükski kaart ei vasta veel nendele filtritele. Alusta tõlkimist, et neid luua!")
  (:flashcards-image-label . "Pilt")
  (:flashcards-image-upload . "Laadi pilt üles")
  (:flashcards-image-replace . "Asenda pilt")

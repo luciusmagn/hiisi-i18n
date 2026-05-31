@@ -683,6 +683,7 @@
  (:flashcards-col-original . "Origineel")
  (:flashcards-col-translated . "Vertaling")
  (:flashcards-no-cards . "Nog geen kaarten. Begin met vertalen om er een paar te maken!")
+ (:flashcards-no-filtered-cards . "Nog geen kaarten komen overeen met deze filters. Begin met vertalen om er een paar te maken!")
  (:flashcards-image-label . "Afbeelding")
  (:flashcards-image-upload . "Afbeelding uploaden")
  (:flashcards-image-replace . "Afbeelding vervangen")

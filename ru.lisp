@@ -684,6 +684,7 @@
  (:flashcards-col-original . "Оригинал")
  (:flashcards-col-translated . "Перевод")
  (:flashcards-no-cards . "Карточек пока нет. Начните переводить, чтобы создать их!")
+ (:flashcards-no-filtered-cards . "Пока нет карточек, соответствующих этим фильтрам. Начните переводить, чтобы создать их!")
  (:flashcards-image-label . "Изображение")
  (:flashcards-image-upload . "Загрузить изображение")
  (:flashcards-image-replace . "Заменить изображение")

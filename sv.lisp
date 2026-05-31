@@ -683,6 +683,7 @@
  (:flashcards-col-original . "Original")
  (:flashcards-col-translated . "Översättning")
  (:flashcards-no-cards . "Inga kort ännu. Börja översätta för att skapa några!")
+ (:flashcards-no-filtered-cards . "Inga kort matchar dessa filter ännu. Börja översätta för att skapa några!")
  (:flashcards-image-label . "Bild")
  (:flashcards-image-upload . "Ladda upp bild")
  (:flashcards-image-replace . "Byt bild")
