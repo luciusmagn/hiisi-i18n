@@ -195,6 +195,8 @@
  (:translate-title . "Vertalen")
  (:translate-input-label . "Te vertalen tekst")
  (:translate-input-placeholder . "Voer tekst in om te vertalen...")
+ (:translate-example-chip . "Probeer een voorbeeld:")
+ (:translate-example-sentence . "Ik ben mijn sleutels thuis vergeten.")
  (:translate-from . "Brontaal:")
  (:translate-to . "Doeltaal:")
  (:translate-select-target-placeholder . "Kies doeltaal")

@@ -196,6 +196,8 @@
  (:translate-title . "Traduire")
  (:translate-input-label . "Texte à traduire")
  (:translate-input-placeholder . "Entrez le texte à traduire...")
+ (:translate-example-chip . "Essayez un exemple :")
+ (:translate-example-sentence . "J'ai oublié mes clés à la maison.")
  (:translate-from . "Langue source :")
  (:translate-to . "Langue cible :")
  (:translate-select-target-placeholder . "Sélectionnez la langue cible")

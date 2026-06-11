@@ -195,6 +195,8 @@
  (:translate-title . "Překlad")
  (:translate-input-label . "Zadejte text k překladu")
  (:translate-input-placeholder . "Napište něco...")
+ (:translate-example-chip . "Vyzkoušejte příklad:")
+ (:translate-example-sentence . "Zapomněl jsem klíče doma.")
  (:translate-from . "Původní jazyk:")
  (:translate-to . "Jazyk překladu:")
  (:translate-select-target-placeholder . "Vyberte jazyk překladu")

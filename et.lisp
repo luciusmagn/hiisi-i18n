@@ -195,6 +195,8 @@
  (:translate-title . "Tõlgi")
  (:translate-input-label . "Tõlgitav tekst")
  (:translate-input-placeholder . "Sisesta tõlgitav tekst...")
+ (:translate-example-chip . "Proovi näidet:")
+ (:translate-example-sentence . "Unustasin võtmed koju.")
  (:translate-from . "Lähtkeel:")
  (:translate-to . "Sihtkeel:")
  (:translate-select-target-placeholder . "Vali sihtkeel")

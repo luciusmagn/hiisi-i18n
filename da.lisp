@@ -196,6 +196,8 @@
  (:translate-title . "Oversæt")
  (:translate-input-label . "Tekst at oversætte")
  (:translate-input-placeholder . "Indtast tekst at oversætte...")
+ (:translate-example-chip . "Prøv et eksempel:")
+ (:translate-example-sentence . "Jeg glemte mine nøgler derhjemme.")
  (:translate-from . "Kildesprog:")
  (:translate-to . "Målsprog:")
  (:translate-select-target-placeholder . "Vælg målsprog")

@@ -196,6 +196,8 @@
  (:translate-title . "Перевод")
  (:translate-input-label . "Текст для перевода")
  (:translate-input-placeholder . "Введите текст для перевода...")
+ (:translate-example-chip . "Попробуйте пример:")
+ (:translate-example-sentence . "Я забыл ключи дома.")
  (:translate-from . "Исходный язык:")
  (:translate-to . "Язык перевода:")
  (:translate-select-target-placeholder . "Выберите язык перевода")

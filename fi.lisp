@@ -195,6 +195,8 @@
  (:translate-title . "Käännä")
  (:translate-input-label . "Käännettävä teksti")
  (:translate-input-placeholder . "Kirjoita käännettävä teksti...")
+ (:translate-example-chip . "Kokeile esimerkkiä:")
+ (:translate-example-sentence . "Unohdin avaimeni kotiin.")
  (:translate-from . "Lähdekieli:")
  (:translate-to . "Kohdekieli:")
  (:translate-select-target-placeholder . "Valitse kohdekieli")
