@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: app per imparare le lingue con grammatica e flashcard")
- (:landing-meta-description . "Hiisi è un'app per imparare le lingue. Ogni frase che traduci diventa una flashcard con grammatica integrata, programmata da SM-2, l'algoritmo di Anki. 15 lingue.")
- (:landing-start-trial . "Inizia con Hiisi")
- (:landing-best-value . "Miglior valore")
+ (:app-meta-description . "Hiisi è un'app per imparare le lingue. Ogni frase che traduci diventa una flashcard con grammatica integrata, programmata da SM-2, l'algoritmo di Anki. 15 lingue.")
+ (:trial-start-cta . "Inizia con Hiisi")
+ (:subscription-best-value . "Miglior valore")
 
  ;; Auth pages
  (:auth-register . "Registrati")
@@ -281,8 +281,8 @@
  (:review-progress . "Carta ~a di ~a")
  (:review-correct-count . "Corrette")
  (:review-wrong-count . "Sbagliate")
- (:landing-mockup-forgot-detail . "1ª persona singolare del preterito di \"olvidar\" (dimenticare)")
- (:landing-mockup-keys-detail . "Possessivo \"mis\" con sostantivo femminile plurale \"llaves\" (chiavi)")
+ (:mockup-forgot-detail . "1ª persona singolare del preterito di \"olvidar\" (dimenticare)")
+ (:mockup-keys-detail . "Possessivo \"mis\" con sostantivo femminile plurale \"llaves\" (chiavi)")
  (:review-complete . "Sessione completata!")
  (:review-complete-msg . "Hai ripassato ~a carte")
  (:review-again-btn . "Ripassa ancora")
@@ -687,7 +687,7 @@
  (:landing-hero-headline-v2 . "Hiisi fa in modo che tu non dimentichi ogni frase che traduci.")
  (:landing-hero-headline-v3 . "Trasforma le frasi che traduci in vocabolario che sai usare.")
  (:landing-hero-subheadline . "Salva qualsiasi frase nei segnalibri e Hiisi ti dà la traduzione, la grammatica, la pronuncia e una flashcard che ritorna per il ripasso.")
- (:landing-hero-trust-line . "14 giorni gratis. Nessuna carta richiesta.")
+ (:trial-cardless-note . "14 giorni gratis. Nessuna carta richiesta.")
 
  ;; Trial status (in-app)
  (:trial-status . "Prova gratuita")

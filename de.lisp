@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: Sprachlern-App mit Grammatik und Karteikarten")
- (:landing-meta-description . "Hiisi ist eine Sprachlern-App. Jeder Satz, den Sie übersetzen, wird zu einer Karteikarte mit integrierter Grammatik, geplant mit SM-2, dem Anki-Algorithmus. 15 Sprachen.")
- (:landing-start-trial . "Mit Hiisi loslegen")
- (:landing-best-value . "Bestes Angebot")
+ (:app-meta-description . "Hiisi ist eine Sprachlern-App. Jeder Satz, den Sie übersetzen, wird zu einer Karteikarte mit integrierter Grammatik, geplant mit SM-2, dem Anki-Algorithmus. 15 Sprachen.")
+ (:trial-start-cta . "Mit Hiisi loslegen")
+ (:subscription-best-value . "Bestes Angebot")
 
  ;; Auth pages
  (:auth-register . "Registrieren")
@@ -281,8 +281,8 @@
  (:review-progress . "Karte ~a von ~a")
  (:review-correct-count . "Richtig")
  (:review-wrong-count . "Falsch")
- (:landing-mockup-forgot-detail . "1. Person Singular Präteritum von \"olvidar\" (vergessen)")
- (:landing-mockup-keys-detail . "Possessiv \"mis\" mit femininem Pluralsubstantiv \"llaves\" (Schlüssel)")
+ (:mockup-forgot-detail . "1. Person Singular Präteritum von \"olvidar\" (vergessen)")
+ (:mockup-keys-detail . "Possessiv \"mis\" mit femininem Pluralsubstantiv \"llaves\" (Schlüssel)")
  (:review-complete . "Sitzung abgeschlossen!")
  (:review-complete-msg . "Du hast ~a Karten wiederholt")
  (:review-again-btn . "Erneut wiederholen")
@@ -687,7 +687,7 @@
  (:landing-hero-headline-v2 . "Hiisi sorgt dafür, dass Sie nicht jeden Satz vergessen, den Sie übersetzen.")
  (:landing-hero-headline-v3 . "Machen Sie die Sätze, die Sie übersetzen, zu Wortschatz, den Sie verwenden können.")
  (:landing-hero-subheadline . "Setzen Sie für jeden beliebigen Satz ein Lesezeichen, und Hiisi liefert Ihnen die Übersetzung, die Grammatik, die Aussprache und eine Karteikarte, die später zur Wiederholung zurückkommt.")
- (:landing-hero-trust-line . "14 Tage kostenlos. Keine Karte erforderlich.")
+ (:trial-cardless-note . "14 Tage kostenlos. Keine Karte erforderlich.")
 
  ;; Trial status (in-app)
  (:trial-status . "Kostenlose Testphase")

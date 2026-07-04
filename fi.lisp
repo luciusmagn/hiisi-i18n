@@ -29,9 +29,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: kieltenoppimissovellus kieliopilla ja muistikorteilla")
- (:landing-meta-description . "Hiisi on kieltenoppimissovellus. Jokaisesta kääntämästäsi lauseesta tulee muistikortti, jossa on sisäänrakennettu kielioppi ja joka ajastetaan SM-2:lla, Ankin algoritmilla. 15 kieltä.")
- (:landing-start-trial . "Aloita Hiisin käyttö")
- (:landing-best-value . "Paras arvo")
+ (:app-meta-description . "Hiisi on kieltenoppimissovellus. Jokaisesta kääntämästäsi lauseesta tulee muistikortti, jossa on sisäänrakennettu kielioppi ja joka ajastetaan SM-2:lla, Ankin algoritmilla. 15 kieltä.")
+ (:trial-start-cta . "Aloita Hiisin käyttö")
+ (:subscription-best-value . "Paras arvo")
 
  ;; Auth pages
  (:auth-register . "Rekisteröidy")
@@ -280,8 +280,8 @@
  (:review-progress . "Kortti ~a/~a")
  (:review-correct-count . "Oikein")
  (:review-wrong-count . "Väärin")
- (:landing-mockup-forgot-detail . "Verbin \"olvidar\" (unohtaa) yksikön 1. persoonan preteriti")
- (:landing-mockup-keys-detail . "Possessiivi \"mis\" feminiinisen monikkosubstantiivin \"llaves\" (avaimet) kanssa")
+ (:mockup-forgot-detail . "Verbin \"olvidar\" (unohtaa) yksikön 1. persoonan preteriti")
+ (:mockup-keys-detail . "Possessiivi \"mis\" feminiinisen monikkosubstantiivin \"llaves\" (avaimet) kanssa")
  (:review-complete . "Kertaus valmis!")
  (:review-complete-msg . "Kertasit ~a korttia")
  (:review-again-btn . "Kertaa uudelleen")
@@ -686,7 +686,7 @@
  (:landing-hero-headline-v2 . "Hiisi varmistaa, ettet unohda jokaista kääntämääsi lausetta.")
  (:landing-hero-headline-v3 . "Muuta kääntämäsi lauseet sanastoksi, jota osaat käyttää.")
  (:landing-hero-subheadline . "Lisää mikä tahansa lause kirjanmerkkeihin, niin Hiisi antaa sinulle käännöksen, kieliopin, ääntämisen ja muistikortin, joka palaa kerrattavaksi.")
- (:landing-hero-trust-line . "14 päivää ilmaiseksi. Maksukorttia ei tarvita.")
+ (:trial-cardless-note . "14 päivää ilmaiseksi. Maksukorttia ei tarvita.")
 
  ;; Trial status (in-app)
  (:trial-status . "Ilmainen kokeilu")

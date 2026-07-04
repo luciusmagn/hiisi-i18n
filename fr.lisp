@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi : appli d'apprentissage des langues avec grammaire et cartes")
- (:landing-meta-description . "Hiisi est une appli d'apprentissage des langues. Chaque phrase que vous traduisez devient une carte avec grammaire intégrée, planifiée par SM-2, l'algorithme d'Anki. 15 langues.")
- (:landing-start-trial . "Commencer avec Hiisi")
- (:landing-best-value . "Meilleur rapport qualité-prix")
+ (:app-meta-description . "Hiisi est une appli d'apprentissage des langues. Chaque phrase que vous traduisez devient une carte avec grammaire intégrée, planifiée par SM-2, l'algorithme d'Anki. 15 langues.")
+ (:trial-start-cta . "Commencer avec Hiisi")
+ (:subscription-best-value . "Meilleur rapport qualité-prix")
 
  ;; Auth pages
  (:auth-register . "S'inscrire")
@@ -281,8 +281,8 @@
  (:review-progress . "Carte ~a sur ~a")
  (:review-correct-count . "Correctes")
  (:review-wrong-count . "Incorrectes")
- (:landing-mockup-forgot-detail . "1re personne du singulier au prétérit de \"olvidar\" (oublier)")
- (:landing-mockup-keys-detail . "Possessif \"mis\" avec le nom féminin pluriel \"llaves\" (clés)")
+ (:mockup-forgot-detail . "1re personne du singulier au prétérit de \"olvidar\" (oublier)")
+ (:mockup-keys-detail . "Possessif \"mis\" avec le nom féminin pluriel \"llaves\" (clés)")
  (:review-complete . "Session terminée !")
  (:review-complete-msg . "Vous avez révisé ~a cartes")
  (:review-again-btn . "Réviser encore")
@@ -688,7 +688,7 @@
  (:landing-hero-headline-v2 . "Hiisi veille à ce que vous n'oubliiez pas chaque phrase que vous traduisez.")
  (:landing-hero-headline-v3 . "Transformez les phrases que vous traduisez en vocabulaire que vous pouvez utiliser.")
  (:landing-hero-subheadline . "Ajoutez n'importe quelle phrase aux favoris et Hiisi vous donne la traduction, la grammaire, la prononciation et une fiche de révision qui revient pour réviser.")
- (:landing-hero-trust-line . "14 jours gratuits. Aucune carte requise.")
+ (:trial-cardless-note . "14 jours gratuits. Aucune carte requise.")
 
  ;; Trial status (in-app)
  (:trial-status . "Essai gratuit")

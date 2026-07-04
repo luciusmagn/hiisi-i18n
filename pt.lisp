@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: aplicação de aprendizagem de línguas com gramática e cartões")
- (:landing-meta-description . "Hiisi é uma aplicação de aprendizagem de línguas. Cada frase que traduz torna-se um cartão com gramática integrada, agendado pelo SM-2, o algoritmo do Anki. 15 línguas.")
- (:landing-start-trial . "Começar com o Hiisi")
- (:landing-best-value . "Melhor valor")
+ (:app-meta-description . "Hiisi é uma aplicação de aprendizagem de línguas. Cada frase que traduz torna-se um cartão com gramática integrada, agendado pelo SM-2, o algoritmo do Anki. 15 línguas.")
+ (:trial-start-cta . "Começar com o Hiisi")
+ (:subscription-best-value . "Melhor valor")
 
  ;; Auth pages
  (:auth-register . "Registar")
@@ -281,8 +281,8 @@
  (:review-progress . "Cartão ~a de ~a")
  (:review-correct-count . "Corretas")
  (:review-wrong-count . "Erradas")
- (:landing-mockup-forgot-detail . "1.ª pessoa do singular do pretérito de \"olvidar\" (esquecer)")
- (:landing-mockup-keys-detail . "Possessivo \"mis\" com substantivo feminino plural \"llaves\" (chaves)")
+ (:mockup-forgot-detail . "1.ª pessoa do singular do pretérito de \"olvidar\" (esquecer)")
+ (:mockup-keys-detail . "Possessivo \"mis\" com substantivo feminino plural \"llaves\" (chaves)")
  (:review-complete . "Sessão concluída!")
  (:review-complete-msg . "Reviu ~a cartões")
  (:review-again-btn . "Rever novamente")
@@ -687,7 +687,7 @@
  (:landing-hero-headline-v2 . "O Hiisi garante que não se esquece de cada frase que traduz.")
  (:landing-hero-headline-v3 . "Transforme as frases que traduz em vocabulário que sabe usar.")
  (:landing-hero-subheadline . "Guarde qualquer frase nos favoritos e o Hiisi dá-lhe a tradução, a gramática, a pronúncia e um cartão de estudo que volta para revisão.")
- (:landing-hero-trust-line . "14 dias gratuitos. Não é preciso cartão.")
+ (:trial-cardless-note . "14 dias gratuitos. Não é preciso cartão.")
 
  ;; Trial status (in-app)
  (:trial-status . "Teste gratuito")

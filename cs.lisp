@@ -29,9 +29,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: aplikace pro studium jazyků s gramatikou a kartičkami")
- (:landing-meta-description . "Hiisi je aplikace pro studium jazyků. Každá věta, kterou přeložíte, se změní na kartičku s vestavěnou gramatikou, plánovanou algoritmem SM-2, algoritmem Anki. 15 jazyků.")
- (:landing-start-trial . "Začít s Hiisi")
- (:landing-best-value . "Nejlepší hodnota")
+ (:app-meta-description . "Hiisi je aplikace pro studium jazyků. Každá věta, kterou přeložíte, se změní na kartičku s vestavěnou gramatikou, plánovanou algoritmem SM-2, algoritmem Anki. 15 jazyků.")
+ (:trial-start-cta . "Začít s Hiisi")
+ (:subscription-best-value . "Nejlepší hodnota")
 
  ;; Auth pages
  (:auth-register . "Registrace")
@@ -280,8 +280,8 @@
  (:review-progress . "Kartička ~a z ~a")
  (:review-correct-count . "Správně")
  (:review-wrong-count . "Špatně")
- (:landing-mockup-forgot-detail . "1. osoba jednotného čísla préterita slovesa \"olvidar\" (zapomenout)")
- (:landing-mockup-keys-detail . "Přivlastňovací \"mis\" se ženským podstatným jménem v množném čísle \"llaves\" (klíče)")
+ (:mockup-forgot-detail . "1. osoba jednotného čísla préterita slovesa \"olvidar\" (zapomenout)")
+ (:mockup-keys-detail . "Přivlastňovací \"mis\" se ženským podstatným jménem v množném čísle \"llaves\" (klíče)")
  (:review-complete . "Opakování dokončeno!")
  (:review-complete-msg . "Zopakovali jste ~a kartiček")
  (:review-again-btn . "Opakovat znovu")
@@ -686,7 +686,7 @@
  (:landing-hero-headline-v2 . "Hiisi zajistí, že nezapomenete každou větu, kterou přeložíte.")
  (:landing-hero-headline-v3 . "Proměňte věty, které překládáte, ve slovní zásobu, kterou umíte použít.")
  (:landing-hero-subheadline . "Uložte si libovolnou větu a Hiisi vám dá překlad, gramatiku, výslovnost a kartičku, která se vrátí k opakování.")
- (:landing-hero-trust-line . "14 dní zdarma. Karta není potřeba.")
+ (:trial-cardless-note . "14 dní zdarma. Karta není potřeba.")
 
  ;; Trial status (in-app)
  (:trial-status . "Zkušební doba")

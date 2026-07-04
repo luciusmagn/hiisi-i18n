@@ -29,9 +29,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: app om talen te leren met grammatica en flashcards")
- (:landing-meta-description . "Hiisi is een app om talen te leren. Elke zin die je vertaalt, wordt een flashcard met ingebouwde grammatica, gepland door SM-2, het Anki-algoritme. 15 talen.")
- (:landing-start-trial . "Aan de slag met Hiisi")
- (:landing-best-value . "Beste waarde")
+ (:app-meta-description . "Hiisi is een app om talen te leren. Elke zin die je vertaalt, wordt een flashcard met ingebouwde grammatica, gepland door SM-2, het Anki-algoritme. 15 talen.")
+ (:trial-start-cta . "Aan de slag met Hiisi")
+ (:subscription-best-value . "Beste waarde")
 
  ;; Auth pages
  (:auth-register . "Registreren")
@@ -280,8 +280,8 @@
  (:review-progress . "Kaart ~a van ~a")
  (:review-correct-count . "Goed")
  (:review-wrong-count . "Fout")
- (:landing-mockup-forgot-detail . "1e persoon enkelvoud verleden tijd van \"olvidar\" (vergeten)")
- (:landing-mockup-keys-detail . "Bezittelijk \"mis\" met vrouwelijk meervoudig zelfstandig naamwoord \"llaves\" (sleutels)")
+ (:mockup-forgot-detail . "1e persoon enkelvoud verleden tijd van \"olvidar\" (vergeten)")
+ (:mockup-keys-detail . "Bezittelijk \"mis\" met vrouwelijk meervoudig zelfstandig naamwoord \"llaves\" (sleutels)")
  (:review-complete . "Sessie voltooid!")
  (:review-complete-msg . "Je hebt ~a kaarten herhaald")
  (:review-again-btn . "Opnieuw herhalen")
@@ -686,7 +686,7 @@
  (:landing-hero-headline-v2 . "Hiisi zorgt ervoor dat je niet elke zin vergeet die je vertaalt.")
  (:landing-hero-headline-v3 . "Maak van de zinnen die je vertaalt woordenschat die je kunt gebruiken.")
  (:landing-hero-subheadline . "Maak van een willekeurige zin een bladwijzer en Hiisi geeft je de vertaling, de grammatica, de uitspraak en een flashcard die terugkomt om te herhalen.")
- (:landing-hero-trust-line . "14 dagen gratis. Geen kaart nodig.")
+ (:trial-cardless-note . "14 dagen gratis. Geen kaart nodig.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis proefperiode")

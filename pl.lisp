@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: aplikacja do nauki języków z gramatyką i fiszkami")
- (:landing-meta-description . "Hiisi to aplikacja do nauki języków. Każde przetłumaczone zdanie staje się fiszką z wbudowaną gramatyką, zaplanowaną przez SM-2, algorytm Anki. 15 języków.")
- (:landing-start-trial . "Zacznij korzystać z Hiisi")
- (:landing-best-value . "Najlepsza oferta")
+ (:app-meta-description . "Hiisi to aplikacja do nauki języków. Każde przetłumaczone zdanie staje się fiszką z wbudowaną gramatyką, zaplanowaną przez SM-2, algorytm Anki. 15 języków.")
+ (:trial-start-cta . "Zacznij korzystać z Hiisi")
+ (:subscription-best-value . "Najlepsza oferta")
 
  ;; Auth pages
  (:auth-register . "Zarejestruj się")
@@ -281,8 +281,8 @@
  (:review-progress . "Fiszka ~a z ~a")
  (:review-correct-count . "Poprawne")
  (:review-wrong-count . "Błędne")
- (:landing-mockup-forgot-detail . "1. osoba liczby pojedynczej czasu przeszłego \"olvidar\" (zapomnieć)")
- (:landing-mockup-keys-detail . "Zaimek dzierżawczy \"mis\" z rzeczownikiem żeńskim w liczbie mnogiej \"llaves\" (klucze)")
+ (:mockup-forgot-detail . "1. osoba liczby pojedynczej czasu przeszłego \"olvidar\" (zapomnieć)")
+ (:mockup-keys-detail . "Zaimek dzierżawczy \"mis\" z rzeczownikiem żeńskim w liczbie mnogiej \"llaves\" (klucze)")
  (:review-complete . "Sesja zakończona!")
  (:review-complete-msg . "Powtórzyłeś ~a fiszek")
  (:review-again-btn . "Powtórz ponownie")
@@ -687,7 +687,7 @@
  (:landing-hero-headline-v2 . "Hiisi pilnuje, żeby każde przetłumaczone zdanie nie zniknęło z pamięci.")
  (:landing-hero-headline-v3 . "Zamień tłumaczone zdania w słownictwo, którego potrafisz używać.")
  (:landing-hero-subheadline . "Dodaj dowolne zdanie do zakładek, a Hiisi poda tłumaczenie, gramatykę, wymowę i fiszkę, która wróci do powtórki.")
- (:landing-hero-trust-line . "14 dni za darmo. Karta nie jest wymagana.")
+ (:trial-cardless-note . "14 dni za darmo. Karta nie jest wymagana.")
 
  ;; Trial status (in-app)
  (:trial-status . "Darmowy okres próbny")

@@ -29,9 +29,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: keeleõppe rakendus grammatika ja õppekaartidega")
- (:landing-meta-description . "Hiisi on keeleõppe rakendus. Iga lause, mille tõlgid, muutub õppekaardiks koos sisseehitatud grammatikaga, ajastatuna SM-2 ehk Anki algoritmi järgi. 15 keelt.")
- (:landing-start-trial . "Alusta Hiisi kasutamist")
- (:landing-best-value . "Parim pakkumine")
+ (:app-meta-description . "Hiisi on keeleõppe rakendus. Iga lause, mille tõlgid, muutub õppekaardiks koos sisseehitatud grammatikaga, ajastatuna SM-2 ehk Anki algoritmi järgi. 15 keelt.")
+ (:trial-start-cta . "Alusta Hiisi kasutamist")
+ (:subscription-best-value . "Parim pakkumine")
 
  ;; Auth pages
  (:auth-register . "Registreeru")
@@ -280,8 +280,8 @@
  (:review-progress . "Kaart ~a/~a")
  (:review-correct-count . "Õige")
  (:review-wrong-count . "Valesti")
- (:landing-mockup-forgot-detail . "Tegusõna \"olvidar\" (unustama) ainsuse 1. pöörde preteeritum")
- (:landing-mockup-keys-detail . "Omastajaline \"mis\" naissoo mitmuse nimisõnaga \"llaves\" (võtmed)")
+ (:mockup-forgot-detail . "Tegusõna \"olvidar\" (unustama) ainsuse 1. pöörde preteeritum")
+ (:mockup-keys-detail . "Omastajaline \"mis\" naissoo mitmuse nimisõnaga \"llaves\" (võtmed)")
  (:review-complete . "Seanss lõpetatud!")
  (:review-complete-msg . "Kordasid ~a kaarti")
  (:review-again-btn . "Korda uuesti")
@@ -686,7 +686,7 @@
  (:landing-hero-headline-v2 . "Hiisi hoolitseb selle eest, et sa ei unustaks ühtegi tõlgitud lauset.")
  (:landing-hero-headline-v3 . "Muuda tõlgitud laused sõnavaraks, mida oskad kasutada.")
  (:landing-hero-subheadline . "Lisa ükskõik milline lause järjehoidjasse ja Hiisi annab sulle tõlke, grammatika, häälduse ning õppekaardi, mis tuleb kordamiseks tagasi.")
- (:landing-hero-trust-line . "14 päeva tasuta. Kaarti pole vaja.")
+ (:trial-cardless-note . "14 päeva tasuta. Kaarti pole vaja.")
 
  ;; Trial status (in-app)
  (:trial-status . "Tasuta prooviperiood")

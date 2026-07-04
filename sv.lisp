@@ -29,9 +29,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: språkinlärningsapp med grammatik och flashcards")
- (:landing-meta-description . "Hiisi är en språkinlärningsapp. Varje mening du översätter blir ett flashcard med inbyggd grammatik, schemalagt med SM-2, Anki-algoritmen. 15 språk.")
- (:landing-start-trial . "Kom igång med Hiisi")
- (:landing-best-value . "Bäst värde")
+ (:app-meta-description . "Hiisi är en språkinlärningsapp. Varje mening du översätter blir ett flashcard med inbyggd grammatik, schemalagt med SM-2, Anki-algoritmen. 15 språk.")
+ (:trial-start-cta . "Kom igång med Hiisi")
+ (:subscription-best-value . "Bäst värde")
 
  ;; Auth pages
  (:auth-register . "Registrera")
@@ -280,8 +280,8 @@
  (:review-progress . "Kort ~a av ~a")
  (:review-correct-count . "Rätt")
  (:review-wrong-count . "Fel")
- (:landing-mockup-forgot-detail . "1:a person singularis preteritum av \"olvidar\" (att glömma)")
- (:landing-mockup-keys-detail . "Possessiv \"mis\" med feminint pluralsubstantiv \"llaves\" (nycklar)")
+ (:mockup-forgot-detail . "1:a person singularis preteritum av \"olvidar\" (att glömma)")
+ (:mockup-keys-detail . "Possessiv \"mis\" med feminint pluralsubstantiv \"llaves\" (nycklar)")
  (:review-complete . "Session klar!")
  (:review-complete-msg . "Du repeterade ~a kort")
  (:review-again-btn . "Repetera igen")
@@ -686,7 +686,7 @@
  (:landing-hero-headline-v2 . "Hiisi ser till att du inte glömmer varje mening du översätter.")
  (:landing-hero-headline-v3 . "Gör meningarna du översätter till ordförråd du kan använda.")
  (:landing-hero-subheadline . "Bokmärk vilken mening som helst så ger Hiisi dig översättningen, grammatiken, uttalet och ett flashkort som kommer tillbaka för repetition.")
- (:landing-hero-trust-line . "14 dagar gratis. Inget kort krävs.")
+ (:trial-cardless-note . "14 dagar gratis. Inget kort krävs.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis provperiod")

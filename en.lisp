@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: language learning app with grammar and flashcards")
- (:landing-meta-description . "Hiisi is a language learning app. Every sentence you translate becomes a flashcard with grammar built in, scheduled by SM-2, the Anki algorithm. 15 languages.")
- (:landing-start-trial . "Get started with Hiisi")
- (:landing-best-value . "Best Value")
+ (:app-meta-description . "Hiisi is a language learning app. Every sentence you translate becomes a flashcard with grammar built in, scheduled by SM-2, the Anki algorithm. 15 languages.")
+ (:trial-start-cta . "Get started with Hiisi")
+ (:subscription-best-value . "Best Value")
 
  ;; Auth pages
  (:auth-register . "Register")
@@ -281,8 +281,8 @@
  (:review-progress . "Card ~a of ~a")
  (:review-correct-count . "Correct")
  (:review-wrong-count . "Wrong")
- (:landing-mockup-forgot-detail . "1st person singular preterite of \"olvidar\" (to forget)")
- (:landing-mockup-keys-detail . "Possessive \"mis\" with feminine plural noun \"llaves\" (keys)")
+ (:mockup-forgot-detail . "1st person singular preterite of \"olvidar\" (to forget)")
+ (:mockup-keys-detail . "Possessive \"mis\" with feminine plural noun \"llaves\" (keys)")
  (:review-complete . "Session Complete!")
  (:review-complete-msg . "You reviewed ~a cards")
  (:review-again-btn . "Review Again")
@@ -688,7 +688,7 @@
  (:landing-hero-headline-v2 . "Hiisi makes sure you don’t forget every sentence you translate.")
  (:landing-hero-headline-v3 . "Turn the sentences you translate into vocabulary you can use.")
  (:landing-hero-subheadline . "Bookmark any sentence and Hiisi gives you the translation, the grammar, the pronunciation, and a flashcard that comes back for review.")
- (:landing-hero-trust-line . "14 days free. No card required.")
+ (:trial-cardless-note . "14 days free. No card required.")
 
  ;; Trial status (in-app)
  (:trial-status . "Free Trial")

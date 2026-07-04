@@ -30,9 +30,9 @@
 
  ;; Landing page
  (:landing-meta-title . "Hiisi: sproglæringsapp med grammatik og flashkort")
- (:landing-meta-description . "Hiisi er en sproglæringsapp. Hver sætning, du oversætter, bliver til et flashkort med indbygget grammatik, planlagt med SM-2, Anki-algoritmen. 15 sprog.")
- (:landing-start-trial . "Kom i gang med Hiisi")
- (:landing-best-value . "Bedste værdi")
+ (:app-meta-description . "Hiisi er en sproglæringsapp. Hver sætning, du oversætter, bliver til et flashkort med indbygget grammatik, planlagt med SM-2, Anki-algoritmen. 15 sprog.")
+ (:trial-start-cta . "Kom i gang med Hiisi")
+ (:subscription-best-value . "Bedste værdi")
 
  ;; Auth pages
  (:auth-register . "Registrer")
@@ -281,8 +281,8 @@
  (:review-progress . "Kort ~a af ~a")
  (:review-correct-count . "Rigtigt")
  (:review-wrong-count . "Forkert")
- (:landing-mockup-forgot-detail . "1. person ental præteritum af \"olvidar\" (at glemme)")
- (:landing-mockup-keys-detail . "Ejestedord \"mis\" med feminint flertalssubstantiv \"llaves\" (nøgler)")
+ (:mockup-forgot-detail . "1. person ental præteritum af \"olvidar\" (at glemme)")
+ (:mockup-keys-detail . "Ejestedord \"mis\" med feminint flertalssubstantiv \"llaves\" (nøgler)")
  (:review-complete . "Session fuldført!")
  (:review-complete-msg . "Du gennemgik ~a kort")
  (:review-again-btn . "Gentag igen")
@@ -687,7 +687,7 @@
  (:landing-hero-headline-v2 . "Hiisi sørger for, at du ikke glemmer de sætninger, du oversætter.")
  (:landing-hero-headline-v3 . "Gør de sætninger, du oversætter, til ordforråd, du kan bruge.")
  (:landing-hero-subheadline . "Bogmærk en hvilken som helst sætning, så giver Hiisi dig oversættelsen, grammatikken, udtalen og et flashkort, der vender tilbage til repetition.")
- (:landing-hero-trust-line . "14 dage gratis. Intet kort kræves.")
+ (:trial-cardless-note . "14 dage gratis. Intet kort kræves.")
 
  ;; Trial status (in-app)
  (:trial-status . "Gratis prøveperiode")
