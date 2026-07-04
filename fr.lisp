@@ -798,5 +798,5 @@
  (:landing-final-title . "Commencez avec Hiisi dès aujourd'hui")
  (:landing-final-body . "Hiisi vous donne le sens, la grammaire, la prononciation, et une carte qui revient vous trouver. Dès lors, la phrase est à vous.")
  (:landing-final-languages . "Quinze langues vous attendent, dès que vous êtes prêt.")
-
+ (:modal-close . "Fermer")
 )

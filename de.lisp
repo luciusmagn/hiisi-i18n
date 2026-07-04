@@ -797,5 +797,5 @@
  (:landing-final-title . "Fangen Sie heute mit Hiisi an")
  (:landing-final-body . "Hiisi gibt Ihnen die Bedeutung, die Grammatik, die Aussprache und eine Karteikarte, die Sie wiederfindet. Der Satz gehört von da an Ihnen.")
  (:landing-final-languages . "Fünfzehn Sprachen stehen bereit, wann immer Sie es sind.")
-
+ (:modal-close . "Schließen")
 )

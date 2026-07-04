@@ -796,5 +796,5 @@
  (:landing-final-title . "Alusta Hiisiga juba täna")
  (:landing-final-body . "Hiisi annab sulle tähenduse, grammatika, häälduse ja sõnakaardi, mis tuleb sind ise üles otsima. Sellest hetkest on lause sinu oma.")
  (:landing-final-languages . "Viisteist keelt on valmis, kui sina oled.")
-
+ (:modal-close . "Sulge")
 )

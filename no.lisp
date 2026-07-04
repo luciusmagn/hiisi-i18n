@@ -797,5 +797,5 @@
  (:landing-final-title . "Begynn med Hiisi i dag")
  (:landing-final-body . "Hiisi gir deg betydningen, grammatikken, uttalen og et minnekort som kommer tilbake og finner deg. Fra da av er setningen din.")
  (:landing-final-languages . "Femten språk står klare når du er det.")
-
+ (:modal-close . "Lukk")
 )

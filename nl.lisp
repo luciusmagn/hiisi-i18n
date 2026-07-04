@@ -796,5 +796,5 @@
  (:landing-final-title . "Begin vandaag met Hiisi")
  (:landing-final-body . "Hiisi geeft je de betekenis, de grammatica, de uitspraak en een flashcard die jou weer opzoekt. Vanaf dat moment is de zin van jou.")
  (:landing-final-languages . "Vijftien talen staan klaar wanneer jij dat bent.")
-
+ (:modal-close . "Sluiten")
 )

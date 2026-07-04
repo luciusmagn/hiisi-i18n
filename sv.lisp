@@ -796,5 +796,5 @@
  (:landing-final-title . "Börja använda Hiisi i dag")
  (:landing-final-body . "Hiisi ger dig betydelsen, grammatiken, uttalet och ett minneskort som kommer tillbaka och hittar dig. Från och med då är meningen din.")
  (:landing-final-languages . "Femton språk står redo när du är det.")
-
+ (:modal-close . "Stäng")
 )

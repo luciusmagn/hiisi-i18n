@@ -796,5 +796,5 @@
  (:landing-final-title . "Aloita Hiisin käyttö tänään")
  (:landing-final-body . "Hiisi antaa sinulle merkityksen, kieliopin, ääntämisen ja muistikortin, joka palaa etsimään sinut. Siitä hetkestä lause on sinun.")
  (:landing-final-languages . "Viisitoista kieltä on valmiina, kun sinä olet.")
-
+ (:modal-close . "Sulje")
 )

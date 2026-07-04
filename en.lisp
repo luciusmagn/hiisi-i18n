@@ -798,5 +798,5 @@
  (:landing-final-title . "Start using Hiisi today")
  (:landing-final-body . "Hiisi gives you the meaning, the grammar, the pronunciation, and a flashcard that comes back to find you. The sentence is yours from then on.")
  (:landing-final-languages . "Fifteen languages are ready when you are.")
-
+ (:modal-close . "Close")
 )

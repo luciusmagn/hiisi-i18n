@@ -796,5 +796,5 @@
  (:landing-final-title . "Začněte s Hiisi ještě dnes")
  (:landing-final-body . "Hiisi vám dá význam, gramatiku, výslovnost a kartičku, která si vás najde. Věta je od té chvíle vaše.")
  (:landing-final-languages . "Patnáct jazyků čeká, až budete připraveni.")
-
+ (:modal-close . "Zavřít")
 )
