@@ -193,6 +193,7 @@
 
  ;; Translation page
  (:translate-title . "Översätt")
+ (:translate-input-title . "Inmatning")
  (:translate-input-label . "Text att översätta")
  (:translate-input-placeholder . "Skriv text att översätta...")
  (:translate-example-chip . "Prova ett exempel:")

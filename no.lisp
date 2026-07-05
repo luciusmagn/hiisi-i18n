@@ -194,6 +194,7 @@
 
  ;; Translation page
  (:translate-title . "Oversett")
+ (:translate-input-title . "Inndata")
  (:translate-input-label . "Tekst å oversette")
  (:translate-input-placeholder . "Skriv inn tekst å oversette...")
  (:translate-example-chip . "Prøv et eksempel:")

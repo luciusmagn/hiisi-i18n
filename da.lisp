@@ -194,6 +194,7 @@
 
  ;; Translation page
  (:translate-title . "Oversæt")
+ (:translate-input-title . "Input")
  (:translate-input-label . "Tekst at oversætte")
  (:translate-input-placeholder . "Indtast tekst at oversætte...")
  (:translate-example-chip . "Prøv et eksempel:")

@@ -193,6 +193,7 @@
 
  ;; Translation page
  (:translate-title . "Překlad")
+ (:translate-input-title . "Vstup")
  (:translate-input-label . "Zadejte text k překladu")
  (:translate-input-placeholder . "Napište něco...")
  (:translate-example-chip . "Vyzkoušejte příklad:")

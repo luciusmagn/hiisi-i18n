@@ -193,6 +193,7 @@
 
  ;; Translation page
  (:translate-title . "Tõlgi")
+ (:translate-input-title . "Sisend")
  (:translate-input-label . "Tõlgitav tekst")
  (:translate-input-placeholder . "Sisesta tõlgitav tekst...")
  (:translate-example-chip . "Proovi näidet:")

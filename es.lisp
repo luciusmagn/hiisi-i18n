@@ -194,6 +194,7 @@
 
  ;; Translation page
  (:translate-title . "Traducir")
+ (:translate-input-title . "Entrada")
  (:translate-input-label . "Texto a traducir")
  (:translate-input-placeholder . "Ingresa el texto a traducir...")
  (:translate-example-chip . "Prueba un ejemplo:")

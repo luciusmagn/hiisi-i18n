@@ -193,6 +193,7 @@
 
  ;; Translation page
  (:translate-title . "Käännä")
+ (:translate-input-title . "Syöte")
  (:translate-input-label . "Käännettävä teksti")
  (:translate-input-placeholder . "Kirjoita käännettävä teksti...")
  (:translate-example-chip . "Kokeile esimerkkiä:")

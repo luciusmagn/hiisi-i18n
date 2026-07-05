@@ -193,6 +193,7 @@
 
  ;; Translation page
  (:translate-title . "Vertalen")
+ (:translate-input-title . "Invoer")
  (:translate-input-label . "Te vertalen tekst")
  (:translate-input-placeholder . "Voer tekst in om te vertalen...")
  (:translate-example-chip . "Probeer een voorbeeld:")
