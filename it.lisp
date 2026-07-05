@@ -322,6 +322,7 @@
  ;; Account
  (:account-title . "Account")
  (:account-subtitle . "Gestisci qui profilo, abbonamento, promemoria, esportazioni ed eliminazione dell'account.")
+ (:account-status-title . "Stato")
  (:account-profile-subtitle . "Tieni aggiornati il nome visualizzato e l'indirizzo email.")
  (:account-export-subtitle . "Scarica una copia delle traduzioni salvate, dei mazzi e della cronologia di ripasso.")
  (:account-deletion-title . "Eliminazione account")

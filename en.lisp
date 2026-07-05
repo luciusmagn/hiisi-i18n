@@ -322,6 +322,7 @@
  ;; Account
  (:account-title . "Account")
  (:account-subtitle . "Review your profile, subscription, reminders, exports, and deletion settings here.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Keep your display name and email details up to date.")
  (:account-export-subtitle . "Download a copy of your saved translations, decks, and review data.")
  (:account-deletion-title . "Account Deletion")

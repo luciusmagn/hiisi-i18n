@@ -321,6 +321,7 @@
  ;; Account
  (:account-title . "Account")
  (:account-subtitle . "Beheer hier je profiel, abonnement, herinneringen, exports en accountverwijdering.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Houd je weergavenaam en e-mailadres actueel.")
  (:account-export-subtitle . "Download een kopie van je opgeslagen vertalingen, decks en herhaalgegevens.")
  (:account-deletion-title . "Account verwijderen")

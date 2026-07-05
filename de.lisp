@@ -322,6 +322,7 @@
  ;; Account
  (:account-title . "Konto")
  (:account-subtitle . "Verwalte hier Profil, Abo, Erinnerungen, Exporte und die Löschung deines Kontos.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Halte deinen Anzeigenamen und deine E-Mail-Adresse aktuell.")
  (:account-export-subtitle . "Lade eine Kopie deiner gespeicherten Übersetzungen, Decks und Wiederholungsdaten herunter.")
  (:account-deletion-title . "Kontolöschung")

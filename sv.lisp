@@ -321,6 +321,7 @@
  ;; Account
  (:account-title . "Konto")
  (:account-subtitle . "Hantera profil, prenumeration, påminnelser, exporter och radering av konto här.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Håll ditt visningsnamn och din e-postadress uppdaterade.")
  (:account-export-subtitle . "Ladda ner en kopia av dina sparade översättningar, kortlekar och repetitionsdata.")
  (:account-deletion-title . "Kontoradering")

@@ -321,6 +321,7 @@
  ;; Account
  (:account-title . "Účet")
  (:account-subtitle . "Spravujte zde profil, předplatné, připomenutí, exporty i nastavení odstranění účtu.")
+ (:account-status-title . "Stav")
  (:account-profile-subtitle . "Udržujte své zobrazované jméno a e-mail aktuální.")
  (:account-export-subtitle . "Stáhněte si kopii uložených překladů, balíčků a historie opakování.")
  (:account-deletion-title . "Odstranění účtu")

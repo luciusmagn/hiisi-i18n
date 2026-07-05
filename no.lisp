@@ -322,6 +322,7 @@
  ;; Account
  (:account-title . "Konto")
  (:account-subtitle . "Administrer profil, abonnement, påminnelser, eksporter og sletting av konto her.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Hold visningsnavnet og e-postadressen din oppdatert.")
  (:account-export-subtitle . "Last ned en kopi av lagrede oversettelser, kortstokker og repetisjonsdata.")
  (:account-deletion-title . "Sletting av konto")

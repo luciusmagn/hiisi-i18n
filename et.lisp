@@ -321,6 +321,7 @@
  ;; Account
  (:account-title . "Konto")
  (:account-subtitle . "Halda siin oma profiili, tellimust, meeldetuletusi, eksporti ja konto kustutamist.")
+ (:account-status-title . "Staatus")
  (:account-profile-subtitle . "Hoia oma kuvatav nimi ja e-posti aadress ajakohasena.")
  (:account-export-subtitle . "Laadi alla koopia oma salvestatud tõlgetest, pakkidest ja kordamisandmetest.")
  (:account-deletion-title . "Konto kustutamine")

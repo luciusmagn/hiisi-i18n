@@ -322,6 +322,7 @@
  ;; Account
  (:account-title . "Konto")
  (:account-subtitle . "Zarządzaj tutaj profilem, subskrypcją, przypomnieniami, eksportem i usunięciem konta.")
+ (:account-status-title . "Status")
  (:account-profile-subtitle . "Dbaj o aktualność swojej nazwy wyświetlanej i adresu e-mail.")
  (:account-export-subtitle . "Pobierz kopię zapisanych tłumaczeń, talii i historii powtórek.")
  (:account-deletion-title . "Usunięcie konta")

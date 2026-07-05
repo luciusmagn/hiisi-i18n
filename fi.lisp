@@ -321,6 +321,7 @@
  ;; Account
  (:account-title . "Tili")
  (:account-subtitle . "Hallitse täällä profiiliasi, tilaustasi, muistutuksia, vientiä ja tilin poistamista.")
+ (:account-status-title . "Tila")
  (:account-profile-subtitle . "Pidä näyttönimesi ja sähköpostiosoitteesi ajan tasalla.")
  (:account-export-subtitle . "Lataa kopio tallennetuista käännöksistäsi, pakoistasi ja kertausdatastasi.")
  (:account-deletion-title . "Tilin poisto")
