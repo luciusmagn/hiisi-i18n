@@ -748,7 +748,7 @@
  (:issues-error-rate-limit . "Z tohoto zdroje bylo odesláno příliš mnoho hlášení. Počkejte prosím a zkuste to znovu později.")
  (:issues-error-generic . "Hlášení problému se nepodařilo odeslat. Zkuste to prosím znovu.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Patnáct jazyků")
  (:landing-signal-flashcards . "Chytré kartičky")
  (:landing-signal-pronunciation . "Výslovnost, kterou si přečtete")

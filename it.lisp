@@ -749,7 +749,7 @@
  (:issues-error-rate-limit . "Troppe segnalazioni da questa origine. Attendi e riprova più tardi.")
  (:issues-error-generic . "Impossibile inviare la segnalazione. Riprova.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Quindici lingue")
  (:landing-signal-flashcards . "Flashcard intelligenti")
  (:landing-signal-pronunciation . "Pronuncia che puoi leggere")

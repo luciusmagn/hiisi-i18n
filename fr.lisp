@@ -750,7 +750,7 @@
  (:issues-error-rate-limit . "Trop de signalements depuis cette source. Veuillez attendre puis réessayer.")
  (:issues-error-generic . "Le signalement n'a pas pu être envoyé. Veuillez réessayer.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Quinze langues")
  (:landing-signal-flashcards . "Cartes mémoire intelligentes")
  (:landing-signal-pronunciation . "Une prononciation que vous pouvez lire")

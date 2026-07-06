@@ -749,7 +749,7 @@
  (:issues-error-rate-limit . "Zbyt wiele zgłoszeń z tego źródła. Poczekaj i spróbuj ponownie później.")
  (:issues-error-generic . "Nie udało się wysłać zgłoszenia. Spróbuj ponownie.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Piętnaście języków")
  (:landing-signal-flashcards . "Sprytne fiszki")
  (:landing-signal-pronunciation . "Wymowa, którą można przeczytać")

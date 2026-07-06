@@ -748,7 +748,7 @@
  (:issues-error-rate-limit . "Tästä lähteestä on lähetetty liikaa ilmoituksia. Odota hetki ja yritä myöhemmin uudelleen.")
  (:issues-error-generic . "Ongelmailmoituksen lähettäminen epäonnistui. Yritä uudelleen.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Viisitoista kieltä")
  (:landing-signal-flashcards . "Fiksut muistikortit")
  (:landing-signal-pronunciation . "Ääntäminen, jonka voi lukea")

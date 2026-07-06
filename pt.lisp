@@ -749,7 +749,7 @@
  (:issues-error-rate-limit . "Muitos relatos desta origem. Aguarde e tente novamente mais tarde.")
  (:issues-error-generic . "Não foi possível enviar o relato de problema. Tente novamente.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Quinze línguas")
  (:landing-signal-flashcards . "Cartões inteligentes")
  (:landing-signal-pronunciation . "Pronúncia que se pode ler")

@@ -748,7 +748,7 @@
  (:issues-error-rate-limit . "Sellest allikast on saadetud liiga palju teateid. Palun oota ja proovi hiljem uuesti.")
  (:issues-error-generic . "Probleemiteadet ei õnnestunud saata. Palun proovi uuesti.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Viisteist keelt")
  (:landing-signal-flashcards . "Nutikad sõnakaardid")
  (:landing-signal-pronunciation . "Hääldus, mida saab lugeda")

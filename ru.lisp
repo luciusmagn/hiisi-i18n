@@ -749,7 +749,7 @@
  (:issues-error-rate-limit . "С этого источника отправлено слишком много сообщений. Подождите и попробуйте позже.")
  (:issues-error-generic . "Не удалось отправить сообщение о проблеме. Попробуйте снова.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Пятнадцать языков")
  (:landing-signal-flashcards . "Умные карточки")
  (:landing-signal-pronunciation . "Произношение, которое можно прочитать")

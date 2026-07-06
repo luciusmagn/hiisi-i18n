@@ -748,7 +748,7 @@
  (:issues-error-rate-limit . "Te veel meldingen vanaf deze bron. Wacht even en probeer later opnieuw.")
  (:issues-error-generic . "De probleemmelding kon niet worden verzonden. Probeer het opnieuw.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Vijftien talen")
  (:landing-signal-flashcards . "Slimme flashcards")
  (:landing-signal-pronunciation . "Uitspraak die je kunt lezen")

@@ -749,7 +749,7 @@
  (:issues-error-rate-limit . "For mange rapporter fra denne kilde. Vent og prøv igen senere.")
  (:issues-error-generic . "Problemrapporten kunne ikke sendes. Prøv igen.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Femten sprog")
  (:landing-signal-flashcards . "Kloge flashcards")
  (:landing-signal-pronunciation . "Udtale, du kan læse")

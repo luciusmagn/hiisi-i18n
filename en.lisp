@@ -750,7 +750,7 @@
  (:issues-error-rate-limit . "Too many reports from this source. Please wait and try again later.")
  (:issues-error-generic . "Issue report could not be submitted. Please try again.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Fifteen languages")
  (:landing-signal-flashcards . "Smart flashcards")
  (:landing-signal-pronunciation . "Pronunciation you can read")

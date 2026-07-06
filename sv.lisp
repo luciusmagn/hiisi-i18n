@@ -748,7 +748,7 @@
  (:issues-error-rate-limit . "För många rapporter från denna källa. Vänta och försök igen senare.")
  (:issues-error-generic . "Problemrapporten kunde inte skickas. Försök igen.")
 
- ;; Landing page (Programmable Paper)
+ ;; Landing page (Interlisp Paper)
  (:landing-signal-languages . "Femton språk")
  (:landing-signal-flashcards . "Smarta minneskort")
  (:landing-signal-pronunciation . "Uttal du kan läsa")
